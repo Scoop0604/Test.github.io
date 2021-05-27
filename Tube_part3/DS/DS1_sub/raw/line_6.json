@@ -1,0 +1,4661 @@
+{
+    "status": "1",
+    "searchOpt":
+    {
+        "city": "110000",
+        "pageSize": "20",
+        "pageIndex": "1",
+        "ac": "false",
+        "keyword": "地铁6号线",
+        "type": "4"
+    },
+    "data":
+    {
+        "codepoint": 0,
+        "code": "1",
+        "suggestion":
+        {},
+        "timestamp": "1590292968.7",
+        "lqii":
+        {
+            "cache_directive":
+            {
+                "cache_filter":
+                {
+                    "flag": "1",
+                    "expires": "24"
+                },
+                "cache_all":
+                {
+                    "flag": "0"
+                }
+            },
+            "query_intent":
+            {
+                "cate_list": "",
+                "type": "1000",
+                "cate": "",
+                "cate_ext": ""
+            },
+            "general_flag": "",
+            "specialclassify": "0",
+            "view_region": "116.104551200,39.932565400,116.807484800,39.899284600",
+            "smartspot": "0",
+            "suggestcontent": "",
+            "category_brand_recognition_result": "0",
+            "pdheatmap": "",
+            "render_name_flag": "1",
+            "city_info_attr":
+            {
+                "map_view_city": "110000",
+                "target_city": "11",
+                "user_loc_city": ""
+            },
+            "is_current_city": "2",
+            "expand_range_tip": "",
+            "suggest_query":
+            {
+                "data": [],
+                "col": "",
+                "row": ""
+            },
+            "change_query_tip": "",
+            "is_tupu_sug": "0",
+            "has_recommend": "0",
+            "brand_intent":
+            {
+                "t_tag": "",
+                "hierarchy_strategy": "0",
+                "cate": "",
+                "hierarchy_idx": "-1",
+                "flag": "0",
+                "query_brand": "",
+                "name": ""
+            },
+            "suggestionview": "0",
+            "show_hand_drawing": "0",
+            "change_query_type": "",
+            "business": "",
+            "car_icon_flag": "0",
+            "tips_info":
+            {
+                "tip_rule": "",
+                "target_keywords_list": []
+            },
+            "slayer_type": "none",
+            "show_pic": "",
+            "is_view_city": "1",
+            "querytype": "5",
+            "category_brand_recognition_flag": 0,
+            "self_navigation": "",
+            "auto_query_cate": "交通出行=0.480000;出入口=0.330000;公司企业=0.113000\u0006交通出行|地铁站=0.478000;出入口|地铁站出入口=0.326000;公司企业|公司=0.111000",
+            "showaoi": "",
+            "utd_sceneid": "1000",
+            "distance_info": "",
+            "slayer": "0",
+            "target_view_city": "",
+            "call_taxi": "0",
+            "preload_next_page": "0",
+            "magic_box":
+            {},
+            "activity":
+            {
+                "new_year":
+                {
+                    "flag": "0",
+                    "tip": ""
+                }
+            }
+        },
+        "is_general_search": "0",
+        "result": "true",
+        "keywords": "地铁6号线",
+        "message": "Successful.",
+        "total": "367",
+        "busline_list": [
+        {
+            "front_name": "金安桥",
+            "areacode": "010",
+            "code": "110000",
+            "xs": "116.162586,116.163596,116.165359,116.166574,116.167414,116.168398,116.168986,116.169497,116.169966,116.170456,116.171528,116.172446,116.17346,116.177171,116.178314,116.187004,116.188416,116.196331,116.197088,116.197453,116.197817,116.198386,116.200065,116.200234,116.200529,116.201127,116.201767,116.201846,116.20196,116.202117,116.202412,116.202758,116.206186,116.206932,116.207594,116.217162,116.223203,116.223482,116.223814,116.224377,116.225559,116.225747,116.225873,116.225984,116.227292,116.228595,116.229096,116.229599,116.229996,116.230548,116.230918,116.231262,116.232067,116.232368,116.232789,116.233062,116.233384,116.234728,116.235981,116.236238,116.236547,116.236901,116.237429,116.237697,116.238395,116.239231,116.240028,116.242488,116.245063,116.252914,116.253885,116.254777,116.26232,116.265128,116.270509,116.270825,116.271176,116.271651,116.272117,116.272501,116.273463,116.273627,116.273791,116.273938,116.274233,116.274593,116.275175,116.276531,116.277812,116.293,116.293779,116.29464,116.309586,116.310683,116.311813,116.319027,116.323904,116.324775,116.32585,116.343368,116.344082,116.344828,116.353164,116.354357,116.355535,116.367667,116.370068,116.371255,116.372436,116.373203,116.385599,116.386829,116.38807,116.390029,116.392111,116.39691,116.399978,116.401819,116.402993,116.404171,116.405321,116.405587,116.405823,116.405934,116.406004,116.406153,116.406255,116.4064,116.406743,116.407236,116.407665,116.408098,116.408435,116.409132,116.410226,116.414995,116.416202,116.417398,116.431812,116.433147,116.434488,116.435849,116.436507,116.437513,116.438299,116.439515,116.440607,116.444529,116.445039,116.445594,116.446732,116.448234,116.449684,116.450162,116.450476,116.450562,116.450657,116.450738,116.451657,116.452575,116.452795,116.453022,116.453191,116.453338,116.461618,116.462748,116.470112,116.477639,116.47842,116.47928,116.501214,116.502045,116.502878,116.51613,116.517429,116.518729,116.519317,116.519478,116.51963,116.519969,116.520367,116.520772,116.521278,116.521552,116.521802,116.522005,116.522237,116.522512,116.522944,116.540492,116.56287,116.563961,116.565054,116.575174,116.577119,116.578266,116.57941,116.588698,116.597823,116.599722,116.601619,116.602709,116.603932,116.605121,116.605891,116.606824,116.607625,116.608926,116.610381,116.611258,116.611779,116.612318,116.612891,116.613607,116.614626,116.615574,116.616515,116.623185,116.626327,116.627771,116.629287,116.630411,116.632043,116.638338,116.639316,116.640293,116.645801,116.652286,116.653365,116.653958,116.654424,116.65479,116.656873,116.657403,116.657923,116.658657,116.658905,116.659038,116.659347,116.660518,116.660612,116.660655,116.66067,116.660751,116.660842,116.660933,116.660955,116.661069,116.661131,116.661131,116.661129,116.661618,116.66236,116.664718,116.666364,116.667021,116.667622,116.668094,116.668566,116.673284,116.677284,116.678861,116.682413,116.683137,116.683636,116.684151,116.684751,116.685856,116.687037,116.687682,116.688358,116.689935,116.690488,116.690997,116.691453,116.692006,116.692628,116.693186,116.693787,116.694516,116.695224,116.704876,116.705338,116.705652,116.705968,116.706261,116.706479,116.707056,116.709161,116.711814,116.716516,116.717826,116.719136,116.722619,116.732874,116.73385,116.734892,116.743528,116.744663,116.745622,116.747432",
+            "id": "110100023340",
+            "terminal_name": "潞城",
+            "terminal_spell": "lu cheng",
+            "basic_price": "3",
+            "type": "2",
+            "company": "",
+            "status": "1",
+            "ic_card": "0",
+            "neareststation": "",
+            "description": "",
+            "key_name": "地铁6号线",
+            "start_time": "",
+            "front_spell": "jin an qiao",
+            "busline_event": "",
+            "ys": "39.923298,39.923299,39.923303,39.923313,39.923332,39.923377,39.923421,39.923466,39.923519,39.923589,39.923805,39.924027,39.924319,39.925542,39.925829,39.92785,39.928204,39.930304,39.930472,39.930577,39.930756,39.931048,39.931986,39.932066,39.932276,39.932764,39.933518,39.933585,39.933665,39.93373,39.933817,39.93386,39.933614,39.933605,39.93361,39.933399,39.933037,39.933017,39.93297,39.93284,39.9325,39.93246,39.932442,39.93243,39.932422,39.932432,39.932488,39.932568,39.932637,39.932688,39.932698,39.932682,39.932631,39.932586,39.932491,39.932392,39.932211,39.931298,39.930482,39.930333,39.930177,39.930029,39.929873,39.929809,39.929696,39.929585,39.929552,39.929572,39.929521,39.929503,39.929501,39.929482,39.929208,39.929074,39.928874,39.928897,39.928963,39.929148,39.9294,39.929891,39.931858,39.932138,39.932288,39.932408,39.932521,39.932584,39.932588,39.932584,39.932589,39.932676,39.932676,39.932676,39.932341,39.93234,39.932341,39.932427,39.932443,39.932445,39.932445,39.932467,39.932466,39.932465,39.932399,39.932397,39.932399,39.932442,39.932575,39.932658,39.932741,39.932783,39.933211,39.933247,39.933283,39.933332,39.933353,39.933333,39.933161,39.933119,39.933118,39.933119,39.932808,39.932578,39.932141,39.931253,39.927102,39.925757,39.925437,39.925249,39.924946,39.924644,39.924481,39.924408,39.924384,39.924386,39.924386,39.924351,39.924363,39.924372,39.924407,39.924429,39.924461,39.924488,39.924478,39.924445,39.924404,39.924305,39.924166,39.923444,39.923352,39.923278,39.923166,39.923036,39.922919,39.922872,39.922843,39.922837,39.922835,39.922842,39.923054,39.923264,39.923317,39.923371,39.923395,39.923403,39.923337,39.923326,39.9231,39.922899,39.922898,39.922899,39.923081,39.923076,39.923072,39.92315,39.923168,39.923185,39.923211,39.923227,39.92325,39.92332,39.923433,39.923549,39.92367,39.923725,39.923755,39.923775,39.923786,39.923794,39.923799,39.923592,39.924021,39.924021,39.924021,39.92407,39.924144,39.924201,39.924256,39.925157,39.925626,39.925696,39.925766,39.925821,39.925885,39.925925,39.925935,39.925805,39.925545,39.924836,39.924149,39.923942,39.923883,39.923873,39.923919,39.92403,39.924249,39.924477,39.924704,39.926029,39.92653,39.926778,39.926961,39.92697,39.926752,39.926803,39.926801,39.926798,39.926692,39.927137,39.927165,39.927141,39.927079,39.926997,39.926348,39.926232,39.926025,39.925724,39.925591,39.925529,39.9253,39.924259,39.924095,39.923932,39.923626,39.923103,39.9225,39.921949,39.921347,39.920317,39.919318,39.917962,39.916611,39.916074,39.915801,39.915403,39.915107,39.914967,39.914753,39.914481,39.914127,39.910583,39.908033,39.907153,39.905301,39.904902,39.904667,39.904482,39.904297,39.903943,39.903519,39.903275,39.903024,39.902431,39.902254,39.902094,39.901975,39.901851,39.901757,39.901703,39.901674,39.901682,39.90174,39.903175,39.903218,39.903231,39.903244,39.903258,39.903262,39.903268,39.903259,39.903208,39.903191,39.903195,39.903198,39.903192,39.903147,39.903147,39.903147,39.903105,39.903107,39.902994,39.90265",
+            "total_price": "8",
+            "name": "地铁6号线(金安桥--潞城)",
+            "auto": "0",
+            "stations": [
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "金安桥",
+                "station_num": "1",
+                "poiid1": "BS12819059",
+                "start_time": "0508",
+                "spell": "jin an qiao",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:08:00%22%2C%22end_time%22:%2222:25:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:08:00%22%2C%22end_time%22:%2223:36:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340034",
+                "navi_poiname": "",
+                "end_time": "2336",
+                "navi_poiside": "",
+                "xy_coords": "116.162586;39.923298",
+                "poiid2_xy": "116.163129;39.923566",
+                "poiid2": "BV10813545"
+            },
+            {
+                "status": "3",
+                "trans_flag": "",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "苹果园",
+                "station_num": "2",
+                "poiid1": "BS11844870",
+                "start_time": "",
+                "spell": "ping guo yuan",
+                "time_desc_json": "",
+                "station_id": "110100023340035",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.178314;39.925829",
+                "poiid2_xy": "116.178314;39.925829",
+                "poiid2": "BV10013454"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "杨庄",
+                "station_num": "3",
+                "poiid1": "BS12417346",
+                "start_time": "0511",
+                "spell": "yang zhuang",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:11:00%22%2C%22end_time%22:%2222:28:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:11:00%22%2C%22end_time%22:%2223:39:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340030",
+                "navi_poiname": "",
+                "end_time": "2339",
+                "navi_poiside": "",
+                "xy_coords": "116.187004;39.92785",
+                "poiid2_xy": "116.187004;39.927850",
+                "poiid2": "BV10827741"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "西黄村",
+                "station_num": "4",
+                "poiid1": "BS12415890",
+                "start_time": "0514",
+                "spell": "xi huang cun",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:14:00%22%2C%22end_time%22:%2222:31:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:14:00%22%2C%22end_time%22:%2223:42:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340031",
+                "navi_poiname": "",
+                "end_time": "2342",
+                "navi_poiside": "",
+                "xy_coords": "116.206932;39.933605",
+                "poiid2_xy": "116.206932;39.933605",
+                "poiid2": "BV11103938"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "廖公庄",
+                "station_num": "5",
+                "poiid1": "BS12415888",
+                "start_time": "0517",
+                "spell": "liao gong zhuang",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:17:00%22%2C%22end_time%22:%2222:34:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:17:00%22%2C%22end_time%22:%2223:45:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340032",
+                "navi_poiname": "",
+                "end_time": "2345",
+                "navi_poiside": "",
+                "xy_coords": "116.227292;39.932422",
+                "poiid2_xy": "116.227292;39.932422",
+                "poiid2": "BV11103937"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "田村",
+                "station_num": "6",
+                "poiid1": "BS12415892",
+                "start_time": "0520",
+                "spell": "tian cun",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:20:00%22%2C%22end_time%22:%2222:37:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:20:00%22%2C%22end_time%22:%2223:48:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340033",
+                "navi_poiname": "",
+                "end_time": "2348",
+                "navi_poiside": "",
+                "xy_coords": "116.252914;39.929503",
+                "poiid2_xy": "116.252914;39.929503",
+                "poiid2": "BV11103939"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "海淀五路居",
+                "station_num": "7",
+                "poiid1": "BS10026763",
+                "start_time": "0523",
+                "spell": "hai dian wu lu ju",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:23:00%22%2C%22end_time%22:%2222:40:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:23:00%22%2C%22end_time%22:%2223:51:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340002",
+                "navi_poiname": "",
+                "end_time": "2351",
+                "navi_poiside": "",
+                "xy_coords": "116.276531;39.932584",
+                "poiid2_xy": "116.276531;39.932584",
+                "poiid2": "BV10013510"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "慈寿寺",
+                "station_num": "8",
+                "poiid1": "BS10863140",
+                "start_time": "0526",
+                "spell": "ci shou si",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:26:00%22%2C%22end_time%22:%2222:43:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:26:00%22%2C%22end_time%22:%2223:54:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340003",
+                "navi_poiname": "",
+                "end_time": "2354",
+                "navi_poiside": "",
+                "xy_coords": "116.293779;39.932676",
+                "poiid2_xy": "116.295467;39.933268",
+                "poiid2": "BV10013496"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "花园桥",
+                "station_num": "9",
+                "poiid1": "BS10026761",
+                "start_time": "0529",
+                "spell": "hua yuan qiao",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:29:00%22%2C%22end_time%22:%2222:46:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:29:00%22%2C%22end_time%22:%2223:57:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340004",
+                "navi_poiname": "",
+                "end_time": "2357",
+                "navi_poiside": "",
+                "xy_coords": "116.310683;39.93234",
+                "poiid2_xy": "116.310683;39.932340",
+                "poiid2": "BV10013509"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "白石桥南",
+                "station_num": "10",
+                "poiid1": "BS10858993",
+                "start_time": "0531",
+                "spell": "bai shi qiao nan",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:31:00%22%2C%22end_time%22:%2222:48:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:31:00%22%2C%22end_time%22:%2223:59:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340005",
+                "navi_poiname": "",
+                "end_time": "2359",
+                "navi_poiside": "",
+                "xy_coords": "116.324775;39.932445",
+                "poiid2_xy": "116.325680;39.933022",
+                "poiid2": "BV10000061"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "车公庄西",
+                "station_num": "11",
+                "poiid1": "BS10000103",
+                "start_time": "0534",
+                "spell": "che gong zhuang xi",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:34:00%22%2C%22end_time%22:%2222:51:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:34:00%22%2C%22end_time%22:%2200:02:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340006",
+                "navi_poiname": "",
+                "end_time": "0002",
+                "navi_poiside": "",
+                "xy_coords": "116.344082;39.932466",
+                "poiid2_xy": "116.344082;39.932466",
+                "poiid2": "BV10000051"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "车公庄",
+                "station_num": "12",
+                "poiid1": "BS10026618",
+                "start_time": "0536",
+                "spell": "che gong zhuang",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:36:00%22%2C%22end_time%22:%2222:53:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:36:00%22%2C%22end_time%22:%2200:04:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340007",
+                "navi_poiname": "",
+                "end_time": "0004",
+                "navi_poiside": "",
+                "xy_coords": "116.354357;39.932397",
+                "poiid2_xy": "116.354357;39.932397",
+                "poiid2": "BV10013437"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "平安里",
+                "station_num": "13",
+                "poiid1": "BS10863126",
+                "start_time": "0538",
+                "spell": "ping an li",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:38:00%22%2C%22end_time%22:%2222:55:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:38:00%22%2C%22end_time%22:%2200:06:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340008",
+                "navi_poiname": "",
+                "end_time": "0006",
+                "navi_poiside": "",
+                "xy_coords": "116.371255;39.932658",
+                "poiid2_xy": "116.372883;39.933949",
+                "poiid2": "BV10013413"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "北海北",
+                "station_num": "14",
+                "poiid1": "BS10026759",
+                "start_time": "0541",
+                "spell": "bei hai bei",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:41:00%22%2C%22end_time%22:%2222:58:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:41:00%22%2C%22end_time%22:%2200:09:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340009",
+                "navi_poiname": "",
+                "end_time": "0009",
+                "navi_poiside": "",
+                "xy_coords": "116.386829;39.933247",
+                "poiid2_xy": "116.386829;39.933247",
+                "poiid2": "BV10013508"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110101",
+                "navi_poiid": "",
+                "name": "南锣鼓巷",
+                "station_num": "15",
+                "poiid1": "BS10863118",
+                "start_time": "0543",
+                "spell": "nan luo gu xiang",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:43:00%22%2C%22end_time%22:%2223:00:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:43:00%22%2C%22end_time%22:%2200:11:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340010",
+                "navi_poiname": "",
+                "end_time": "0011",
+                "navi_poiside": "",
+                "xy_coords": "116.402993;39.933118",
+                "poiid2_xy": "116.404192;39.933848",
+                "poiid2": "BV10013392"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110101",
+                "navi_poiid": "",
+                "name": "东四",
+                "station_num": "16",
+                "poiid1": "BS10863136",
+                "start_time": "0547",
+                "spell": "dong si",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:47:00%22%2C%22end_time%22:%2223:04:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:47:00%22%2C%22end_time%22:%2200:15:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340011",
+                "navi_poiname": "",
+                "end_time": "0015",
+                "navi_poiside": "",
+                "xy_coords": "116.416202;39.924363",
+                "poiid2_xy": "116.417493;39.924370",
+                "poiid2": "BV10013442"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110101",
+                "navi_poiid": "",
+                "name": "朝阳门",
+                "station_num": "17",
+                "poiid1": "BS10861008",
+                "start_time": "0549",
+                "spell": "zhao yang men",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:49:00%22%2C%22end_time%22:%2223:06:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:49:00%22%2C%22end_time%22:%2200:17:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340012",
+                "navi_poiname": "",
+                "end_time": "0017",
+                "navi_poiside": "",
+                "xy_coords": "116.433147;39.924429",
+                "poiid2_xy": "116.434584;39.924499",
+                "poiid2": "BV10004298"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "东大桥",
+                "station_num": "18",
+                "poiid1": "BS10001127",
+                "start_time": "0552",
+                "spell": "dong da qiao",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:52:00%22%2C%22end_time%22:%2223:09:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:52:00%22%2C%22end_time%22:%2200:20:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340013",
+                "navi_poiname": "",
+                "end_time": "0020",
+                "navi_poiside": "",
+                "xy_coords": "116.451657;39.923054",
+                "poiid2_xy": "116.451657;39.923054",
+                "poiid2": "BV10000548"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "呼家楼",
+                "station_num": "19",
+                "poiid1": "BS10026722",
+                "start_time": "0554",
+                "spell": "hu jia lou",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:54:00%22%2C%22end_time%22:%2223:11:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:54:00%22%2C%22end_time%22:%2200:22:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340014",
+                "navi_poiname": "",
+                "end_time": "0022",
+                "navi_poiside": "",
+                "xy_coords": "116.461618;39.923337",
+                "poiid2_xy": "116.461618;39.923337",
+                "poiid2": "BV10013489"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "金台路",
+                "station_num": "20",
+                "poiid1": "BS11287519",
+                "start_time": "0556",
+                "spell": "jin tai lu",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:56:00%22%2C%22end_time%22:%2223:13:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:56:00%22%2C%22end_time%22:%2200:24:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340015",
+                "navi_poiname": "",
+                "end_time": "0024",
+                "navi_poiside": "",
+                "xy_coords": "116.47842;39.922898",
+                "poiid2_xy": "116.478115;39.923556",
+                "poiid2": "BV10008284"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "十里堡",
+                "station_num": "21",
+                "poiid1": "BS10000992",
+                "start_time": "0559",
+                "spell": "shi li bao",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:59:00%22%2C%22end_time%22:%2223:16:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2205:59:00%22%2C%22end_time%22:%2200:27:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340016",
+                "navi_poiname": "",
+                "end_time": "0027",
+                "navi_poiside": "",
+                "xy_coords": "116.502045;39.923076",
+                "poiid2_xy": "116.502045;39.923076",
+                "poiid2": "BV10000481"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "青年路",
+                "station_num": "22",
+                "poiid1": "BS10026757",
+                "start_time": "0602",
+                "spell": "qing nian lu",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:02:00%22%2C%22end_time%22:%2223:19:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:02:00%22%2C%22end_time%22:%2200:30:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340017",
+                "navi_poiname": "",
+                "end_time": "0030",
+                "navi_poiside": "",
+                "xy_coords": "116.517429;39.923168",
+                "poiid2_xy": "116.517429;39.923168",
+                "poiid2": "BV10013507"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "褡裢坡",
+                "station_num": "23",
+                "poiid1": "BS10026755",
+                "start_time": "0606",
+                "spell": "da lian po",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:06:00%22%2C%22end_time%22:%2223:23:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:06:00%22%2C%22end_time%22:%2200:34:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340018",
+                "navi_poiname": "",
+                "end_time": "0034",
+                "navi_poiside": "",
+                "xy_coords": "116.563961;39.924021",
+                "poiid2_xy": "116.563961;39.924021",
+                "poiid2": "BV10013506"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "黄渠",
+                "station_num": "24",
+                "poiid1": "BS10026753",
+                "start_time": "0608",
+                "spell": "huang qu",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:08:00%22%2C%22end_time%22:%2223:25:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:08:00%22%2C%22end_time%22:%2200:36:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340019",
+                "navi_poiname": "",
+                "end_time": "0036",
+                "navi_poiside": "",
+                "xy_coords": "116.578266;39.924201",
+                "poiid2_xy": "116.578266;39.924201",
+                "poiid2": "BV10013505"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "常营",
+                "station_num": "25",
+                "poiid1": "BS10013419",
+                "start_time": "0610",
+                "spell": "chang ying",
+                "time_desc_json": "{%22rule_group%22:[{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:10:00%22%2C%22end_time%22:%2223:27:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340029%22}%2C{%22date%22:{%22month_type%22:[%22all%22]%2C%22month%22:[]%2C%22day_type%22:[%22all%22]%2C%22day_month%22:[]%2C%22day_week%22:[]%2C%22month_range%22:%22%22%2C%22day_range%22:%22%22}%2C%22time_group%22:[{%22start_time%22:%2206:10:00%22%2C%22end_time%22:%2200:38:00%22%2C%22interval_time%22:%22%22%2C%22noon_type%22:%22上午%22}]%2C%22special_case%22:%22%22%2C%22remark%22:%22%22%2C%22terminal_station_id%22:%22110100023340021%22}]%2C%22peak_time_group%22:[]%2C%22flat_time_group%22:[]%2C%22low_time_group%22:[]%2C%22allRemark%22:%22%22}",
+                "station_id": "110100023340020",
+                "navi_poiname": "",
+                "end_time": "0038",
+                "navi_poiside": "",
+                "xy_coords": "116.599722;39.925696",
+                "poiid2_xy": "116.599722;39.925696",
+                "poiid2": "BV10006429"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "草房",
+                "station_num": "26",
+                "poiid1": "BS10014285",
+                "start_time": "0523",
+                "spell": "cao fang",
+                "time_desc_json": "",
+                "station_id": "110100023340021",
+                "navi_poiname": "",
+                "end_time": "2330",
+                "navi_poiside": "",
+                "xy_coords": "116.615574;39.924477",
+                "poiid2_xy": "116.615574;39.924477",
+                "poiid2": "BV10006882"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "物资学院路",
+                "station_num": "27",
+                "poiid1": "BS10849048",
+                "start_time": "0525",
+                "spell": "wu zi xue yuan lu",
+                "time_desc_json": "",
+                "station_id": "110100023340022",
+                "navi_poiname": "",
+                "end_time": "2333",
+                "navi_poiside": "",
+                "xy_coords": "116.639316;39.926801",
+                "poiid2_xy": "116.639316;39.926801",
+                "poiid2": "BV10416645"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "通州北关",
+                "station_num": "28",
+                "poiid1": "BS10849044",
+                "start_time": "0529",
+                "spell": "tong zhou bei guan",
+                "time_desc_json": "",
+                "station_id": "110100023340023",
+                "navi_poiname": "",
+                "end_time": "2336",
+                "navi_poiside": "",
+                "xy_coords": "116.661131;39.917962",
+                "poiid2_xy": "116.661131;39.917962",
+                "poiid2": "BV10416643"
+            },
+            {
+                "status": "3",
+                "trans_flag": "",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "通运门",
+                "station_num": "29",
+                "poiid1": "BS10849056",
+                "start_time": "",
+                "spell": "tong yun men",
+                "time_desc_json": "",
+                "station_id": "110100023340024",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.673284;39.910583",
+                "poiid2_xy": "116.673284;39.910583",
+                "poiid2": "BV10416649"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "北运河西",
+                "station_num": "30",
+                "poiid1": "BS10849054",
+                "start_time": "0533",
+                "spell": "bei yun he xi",
+                "time_desc_json": "",
+                "station_id": "110100023340025",
+                "navi_poiname": "",
+                "end_time": "2341",
+                "navi_poiside": "",
+                "xy_coords": "116.688358;39.903024",
+                "poiid2_xy": "116.688358;39.903024",
+                "poiid2": "BV10416648"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "北运河东",
+                "station_num": "31",
+                "poiid1": "BS10849059",
+                "start_time": "0535",
+                "spell": "bei yun he dong",
+                "time_desc_json": "",
+                "station_id": "110100023340026",
+                "navi_poiname": "",
+                "end_time": "2343",
+                "navi_poiside": "",
+                "xy_coords": "116.707056;39.903268",
+                "poiid2_xy": "116.707056;39.903268",
+                "poiid2": "BV10416651"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "郝家府",
+                "station_num": "32",
+                "poiid1": "BS10849045",
+                "start_time": "0537",
+                "spell": "hao jia fu",
+                "time_desc_json": "",
+                "station_id": "110100023340027",
+                "navi_poiname": "",
+                "end_time": "2345",
+                "navi_poiside": "",
+                "xy_coords": "116.717826;39.903195",
+                "poiid2_xy": "116.717826;39.903195",
+                "poiid2": "BV10416644"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "东夏园",
+                "station_num": "33",
+                "poiid1": "BS10849039",
+                "start_time": "0539",
+                "spell": "dong xia yuan",
+                "time_desc_json": "",
+                "station_id": "110100023340028",
+                "navi_poiname": "",
+                "end_time": "2347",
+                "navi_poiside": "",
+                "xy_coords": "116.73385;39.903147",
+                "poiid2_xy": "116.733850;39.903147",
+                "poiid2": "BV10416641"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "潞城",
+                "station_num": "34",
+                "poiid1": "BS10849036",
+                "start_time": "",
+                "spell": "lu cheng",
+                "time_desc_json": "",
+                "station_id": "110100023340029",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.747432;39.90265",
+                "poiid2_xy": "116.747434;39.902652",
+                "poiid2": "BV10416639"
+            }],
+            "interval": "0006",
+            "bounds": "116.162586;39.901674;116.747432;39.933860",
+            "air": "1",
+            "length": "52.96214",
+            "end_time": "",
+            "is_realtime": "0"
+        },
+        {
+            "front_name": "潞城",
+            "areacode": "010",
+            "code": "110000",
+            "xs": "116.747434,116.745622,116.744663,116.743528,116.734892,116.73385,116.732874,116.722619,116.719136,116.717826,116.716516,116.711814,116.709161,116.707056,116.706479,116.706261,116.705968,116.705652,116.705338,116.704876,116.695224,116.694516,116.693787,116.693186,116.692628,116.692006,116.691453,116.690997,116.690488,116.689935,116.688358,116.687682,116.687037,116.685856,116.684751,116.684151,116.683636,116.683137,116.682413,116.678861,116.677284,116.673284,116.668566,116.668094,116.667622,116.667021,116.666364,116.664718,116.66236,116.661618,116.661129,116.661131,116.661131,116.661069,116.660955,116.660933,116.660842,116.660751,116.66067,116.660655,116.660612,116.660518,116.659347,116.659038,116.658905,116.658657,116.657923,116.657403,116.656873,116.65479,116.654424,116.653958,116.653365,116.652286,116.645801,116.640293,116.639316,116.638338,116.632043,116.630411,116.629287,116.627771,116.626327,116.623185,116.616515,116.615574,116.614626,116.613607,116.612891,116.612318,116.611779,116.611258,116.610381,116.608926,116.607625,116.606824,116.605891,116.605121,116.603932,116.602709,116.601619,116.599722,116.597823,116.588698,116.57941,116.578266,116.577119,116.575174,116.565054,116.563961,116.56287,116.540492,116.522944,116.522512,116.522237,116.522005,116.521802,116.521552,116.521278,116.520772,116.520367,116.519969,116.51963,116.519478,116.519317,116.518729,116.517429,116.51613,116.502878,116.502045,116.501214,116.47928,116.47842,116.477639,116.470112,116.462748,116.461618,116.453338,116.453191,116.453022,116.452795,116.452575,116.451657,116.450738,116.450657,116.450562,116.450476,116.450162,116.449684,116.448234,116.446732,116.445594,116.445039,116.444529,116.440607,116.439515,116.438299,116.437513,116.436507,116.435849,116.434488,116.433147,116.431812,116.417398,116.416202,116.414995,116.410226,116.409132,116.408435,116.408098,116.407665,116.407236,116.406743,116.4064,116.406255,116.406153,116.406004,116.405934,116.405823,116.405587,116.405321,116.404171,116.402993,116.401819,116.399978,116.39691,116.392111,116.390029,116.38807,116.386829,116.385599,116.373203,116.372436,116.371255,116.370068,116.367667,116.355535,116.354357,116.353164,116.344828,116.344082,116.343368,116.32585,116.324775,116.323904,116.319027,116.311813,116.310683,116.309586,116.29464,116.293779,116.293,116.277812,116.276531,116.275175,116.274593,116.274233,116.273938,116.273791,116.273627,116.273463,116.272501,116.272117,116.271651,116.271176,116.270825,116.270509,116.265128,116.26232,116.254777,116.253885,116.252914,116.245063,116.242488,116.240028,116.239231,116.238395,116.237697,116.237429,116.236901,116.236547,116.236238,116.235981,116.234728,116.233384,116.233062,116.232789,116.232368,116.232067,116.231262,116.230918,116.230548,116.229996,116.229599,116.229096,116.228595,116.227292,116.225984,116.225873,116.225747,116.225559,116.224377,116.223814,116.223482,116.223203,116.217162,116.207594,116.206932,116.206186,116.202758,116.202412,116.202117,116.20196,116.201846,116.201767,116.201127,116.200529,116.200234,116.200065,116.198386,116.197817,116.197453,116.197088,116.196331,116.188416,116.187004,116.178314,116.177171,116.17346,116.172446,116.171528,116.170456,116.169966,116.169497,116.168986,116.168398,116.167414,116.166574,116.165359,116.163596,116.162586",
+            "id": "110100023339",
+            "terminal_name": "金安桥",
+            "terminal_spell": "jin an qiao",
+            "basic_price": "3",
+            "type": "2",
+            "company": "",
+            "status": "1",
+            "ic_card": "0",
+            "neareststation": "",
+            "description": "",
+            "key_name": "地铁6号线",
+            "start_time": "",
+            "front_spell": "lu cheng",
+            "busline_event": "",
+            "ys": "39.902652,39.902994,39.903107,39.903105,39.903147,39.903147,39.903147,39.903192,39.903198,39.903195,39.903191,39.903208,39.903259,39.903268,39.903262,39.903258,39.903244,39.903231,39.903218,39.903175,39.90174,39.901682,39.901674,39.901703,39.901757,39.901851,39.901975,39.902094,39.902254,39.902431,39.903024,39.903275,39.903519,39.903943,39.904297,39.904482,39.904667,39.904902,39.905301,39.907153,39.908033,39.910583,39.914127,39.914481,39.914753,39.914967,39.915107,39.915403,39.915801,39.916074,39.916611,39.917962,39.919318,39.920317,39.921347,39.921949,39.9225,39.923103,39.923626,39.923932,39.924095,39.924259,39.9253,39.925529,39.925591,39.925724,39.926025,39.926232,39.926348,39.926997,39.927079,39.927141,39.927165,39.927137,39.926692,39.926798,39.926801,39.926803,39.926752,39.92697,39.926961,39.926778,39.92653,39.926029,39.924704,39.924477,39.924249,39.92403,39.923919,39.923873,39.923883,39.923942,39.924149,39.924836,39.925545,39.925805,39.925935,39.925925,39.925885,39.925821,39.925766,39.925696,39.925626,39.925157,39.924256,39.924201,39.924144,39.92407,39.924021,39.924021,39.924021,39.923592,39.923799,39.923794,39.923786,39.923775,39.923755,39.923725,39.92367,39.923549,39.923433,39.92332,39.92325,39.923227,39.923211,39.923185,39.923168,39.92315,39.923072,39.923076,39.923081,39.922899,39.922898,39.922899,39.9231,39.923326,39.923337,39.923403,39.923395,39.923371,39.923317,39.923264,39.923054,39.922842,39.922835,39.922837,39.922843,39.922872,39.922919,39.923036,39.923166,39.923278,39.923352,39.923444,39.924166,39.924305,39.924404,39.924445,39.924478,39.924488,39.924461,39.924429,39.924407,39.924372,39.924363,39.924351,39.924386,39.924386,39.924384,39.924408,39.924481,39.924644,39.924946,39.925249,39.925437,39.925757,39.927102,39.931253,39.932141,39.932578,39.932808,39.933119,39.933118,39.933119,39.933161,39.933333,39.933353,39.933332,39.933283,39.933247,39.933211,39.932783,39.932741,39.932658,39.932575,39.932442,39.932399,39.932397,39.932399,39.932465,39.932466,39.932467,39.932445,39.932445,39.932443,39.932427,39.932341,39.93234,39.932341,39.932676,39.932676,39.932676,39.932589,39.932584,39.932588,39.932584,39.932521,39.932408,39.932288,39.932138,39.931858,39.929891,39.9294,39.929148,39.928963,39.928897,39.928874,39.929074,39.929208,39.929482,39.929501,39.929503,39.929521,39.929572,39.929552,39.929585,39.929696,39.929809,39.929873,39.930029,39.930177,39.930333,39.930482,39.931298,39.932211,39.932392,39.932491,39.932586,39.932631,39.932682,39.932698,39.932688,39.932637,39.932568,39.932488,39.932432,39.932422,39.93243,39.932442,39.93246,39.9325,39.93284,39.93297,39.933017,39.933037,39.933399,39.93361,39.933605,39.933614,39.93386,39.933817,39.93373,39.933665,39.933585,39.933518,39.932764,39.932276,39.932066,39.931986,39.931048,39.930756,39.930577,39.930472,39.930304,39.928204,39.92785,39.925829,39.925542,39.924319,39.924027,39.923805,39.923589,39.923519,39.923466,39.923421,39.923377,39.923332,39.923313,39.923303,39.923299,39.923298",
+            "total_price": "8",
+            "name": "地铁6号线(潞城--金安桥)",
+            "auto": "0",
+            "stations": [
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "潞城",
+                "station_num": "1",
+                "poiid1": "BS10849035",
+                "start_time": "0452",
+                "spell": "lu cheng",
+                "time_desc_json": "",
+                "station_id": "110100023339022",
+                "navi_poiname": "",
+                "end_time": "2249",
+                "navi_poiside": "",
+                "xy_coords": "116.747434;39.902652",
+                "poiid2_xy": "116.747434;39.902652",
+                "poiid2": "BV10416639"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "东夏园",
+                "station_num": "2",
+                "poiid1": "BS10849040",
+                "start_time": "0454",
+                "spell": "dong xia yuan",
+                "time_desc_json": "",
+                "station_id": "110100023339023",
+                "navi_poiname": "",
+                "end_time": "2251",
+                "navi_poiside": "",
+                "xy_coords": "116.73385;39.903147",
+                "poiid2_xy": "116.733850;39.903147",
+                "poiid2": "BV10416641"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "郝家府",
+                "station_num": "3",
+                "poiid1": "BS10849046",
+                "start_time": "0456",
+                "spell": "hao jia fu",
+                "time_desc_json": "",
+                "station_id": "110100023339024",
+                "navi_poiname": "",
+                "end_time": "2253",
+                "navi_poiside": "",
+                "xy_coords": "116.717826;39.903195",
+                "poiid2_xy": "116.717826;39.903195",
+                "poiid2": "BV10416644"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "北运河东",
+                "station_num": "4",
+                "poiid1": "BS10849060",
+                "start_time": "0458",
+                "spell": "bei yun he dong",
+                "time_desc_json": "",
+                "station_id": "110100023339025",
+                "navi_poiname": "",
+                "end_time": "2255",
+                "navi_poiside": "",
+                "xy_coords": "116.707056;39.903268",
+                "poiid2_xy": "116.707056;39.903268",
+                "poiid2": "BV10416651"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "北运河西",
+                "station_num": "5",
+                "poiid1": "BS10849053",
+                "start_time": "0500",
+                "spell": "bei yun he xi",
+                "time_desc_json": "",
+                "station_id": "110100023339026",
+                "navi_poiname": "",
+                "end_time": "2257",
+                "navi_poiside": "",
+                "xy_coords": "116.688358;39.903024",
+                "poiid2_xy": "116.688358;39.903024",
+                "poiid2": "BV10416648"
+            },
+            {
+                "status": "3",
+                "trans_flag": "",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "通运门",
+                "station_num": "6",
+                "poiid1": "BS10849055",
+                "start_time": "",
+                "spell": "tong yun men",
+                "time_desc_json": "",
+                "station_id": "110100023339027",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.673284;39.910583",
+                "poiid2_xy": "116.673284;39.910583",
+                "poiid2": "BV10416649"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "通州北关",
+                "station_num": "7",
+                "poiid1": "BS10849043",
+                "start_time": "0505",
+                "spell": "tong zhou bei guan",
+                "time_desc_json": "",
+                "station_id": "110100023339028",
+                "navi_poiname": "",
+                "end_time": "2302",
+                "navi_poiside": "",
+                "xy_coords": "116.661131;39.917962",
+                "poiid2_xy": "116.661131;39.917962",
+                "poiid2": "BV10416643"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "物资学院路",
+                "station_num": "8",
+                "poiid1": "BS10849047",
+                "start_time": "0508",
+                "spell": "wu zi xue yuan lu",
+                "time_desc_json": "",
+                "station_id": "110100023339029",
+                "navi_poiname": "",
+                "end_time": "2305",
+                "navi_poiside": "",
+                "xy_coords": "116.639316;39.926801",
+                "poiid2_xy": "116.639316;39.926801",
+                "poiid2": "BV10416645"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "草房",
+                "station_num": "9",
+                "poiid1": "BS10014286",
+                "start_time": "0457",
+                "spell": "cao fang",
+                "time_desc_json": "",
+                "station_id": "110100023339002",
+                "navi_poiname": "",
+                "end_time": "2308",
+                "navi_poiside": "",
+                "xy_coords": "116.615574;39.924477",
+                "poiid2_xy": "116.615574;39.924477",
+                "poiid2": "BV10006882"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "常营",
+                "station_num": "10",
+                "poiid1": "BS10013420",
+                "start_time": "0459",
+                "spell": "chang ying",
+                "time_desc_json": "",
+                "station_id": "110100023339003",
+                "navi_poiname": "",
+                "end_time": "2311",
+                "navi_poiside": "",
+                "xy_coords": "116.599722;39.925696",
+                "poiid2_xy": "116.599722;39.925696",
+                "poiid2": "BV10006429"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "黄渠",
+                "station_num": "11",
+                "poiid1": "BS10026754",
+                "start_time": "0502",
+                "spell": "huang qu",
+                "time_desc_json": "",
+                "station_id": "110100023339004",
+                "navi_poiname": "",
+                "end_time": "2313",
+                "navi_poiside": "",
+                "xy_coords": "116.578266;39.924201",
+                "poiid2_xy": "116.578266;39.924201",
+                "poiid2": "BV10013505"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "褡裢坡",
+                "station_num": "12",
+                "poiid1": "BS10026756",
+                "start_time": "0504",
+                "spell": "da lian po",
+                "time_desc_json": "",
+                "station_id": "110100023339005",
+                "navi_poiname": "",
+                "end_time": "2316",
+                "navi_poiside": "",
+                "xy_coords": "116.563961;39.924021",
+                "poiid2_xy": "116.563961;39.924021",
+                "poiid2": "BV10013506"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "青年路",
+                "station_num": "13",
+                "poiid1": "BS10026758",
+                "start_time": "0508",
+                "spell": "qing nian lu",
+                "time_desc_json": "",
+                "station_id": "110100023339006",
+                "navi_poiname": "",
+                "end_time": "2320",
+                "navi_poiside": "",
+                "xy_coords": "116.517429;39.923168",
+                "poiid2_xy": "116.517429;39.923168",
+                "poiid2": "BV10013507"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "十里堡",
+                "station_num": "14",
+                "poiid1": "BS10000993",
+                "start_time": "0510",
+                "spell": "shi li bao",
+                "time_desc_json": "",
+                "station_id": "110100023339007",
+                "navi_poiname": "",
+                "end_time": "2322",
+                "navi_poiside": "",
+                "xy_coords": "116.502045;39.923076",
+                "poiid2_xy": "116.502045;39.923076",
+                "poiid2": "BV10000481"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "金台路",
+                "station_num": "15",
+                "poiid1": "BS11287518",
+                "start_time": "0513",
+                "spell": "jin tai lu",
+                "time_desc_json": "",
+                "station_id": "110100023339008",
+                "navi_poiname": "",
+                "end_time": "2325",
+                "navi_poiside": "",
+                "xy_coords": "116.47842;39.922898",
+                "poiid2_xy": "116.478115;39.923556",
+                "poiid2": "BV10008284"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "呼家楼",
+                "station_num": "16",
+                "poiid1": "BS10026721",
+                "start_time": "0516",
+                "spell": "hu jia lou",
+                "time_desc_json": "",
+                "station_id": "110100023339009",
+                "navi_poiname": "",
+                "end_time": "2328",
+                "navi_poiside": "",
+                "xy_coords": "116.461618;39.923337",
+                "poiid2_xy": "116.461618;39.923337",
+                "poiid2": "BV10013489"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "东大桥",
+                "station_num": "17",
+                "poiid1": "BS10001128",
+                "start_time": "0518",
+                "spell": "dong da qiao",
+                "time_desc_json": "",
+                "station_id": "110100023339010",
+                "navi_poiname": "",
+                "end_time": "2330",
+                "navi_poiside": "",
+                "xy_coords": "116.451657;39.923054",
+                "poiid2_xy": "116.451657;39.923054",
+                "poiid2": "BV10000548"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110101",
+                "navi_poiid": "",
+                "name": "朝阳门",
+                "station_num": "18",
+                "poiid1": "BS10861007",
+                "start_time": "0521",
+                "spell": "zhao yang men",
+                "time_desc_json": "",
+                "station_id": "110100023339011",
+                "navi_poiname": "",
+                "end_time": "2333",
+                "navi_poiside": "",
+                "xy_coords": "116.433147;39.924429",
+                "poiid2_xy": "116.434584;39.924499",
+                "poiid2": "BV10004298"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110101",
+                "navi_poiid": "",
+                "name": "东四",
+                "station_num": "19",
+                "poiid1": "BS10863135",
+                "start_time": "0524",
+                "spell": "dong si",
+                "time_desc_json": "",
+                "station_id": "110100023339012",
+                "navi_poiname": "",
+                "end_time": "2336",
+                "navi_poiside": "",
+                "xy_coords": "116.416202;39.924363",
+                "poiid2_xy": "116.417493;39.924370",
+                "poiid2": "BV10013442"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110101",
+                "navi_poiid": "",
+                "name": "南锣鼓巷",
+                "station_num": "20",
+                "poiid1": "BS10863117",
+                "start_time": "0527",
+                "spell": "nan luo gu xiang",
+                "time_desc_json": "",
+                "station_id": "110100023339013",
+                "navi_poiname": "",
+                "end_time": "2339",
+                "navi_poiside": "",
+                "xy_coords": "116.402993;39.933118",
+                "poiid2_xy": "116.404192;39.933848",
+                "poiid2": "BV10013392"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "北海北",
+                "station_num": "21",
+                "poiid1": "BS10026760",
+                "start_time": "0529",
+                "spell": "bei hai bei",
+                "time_desc_json": "",
+                "station_id": "110100023339014",
+                "navi_poiname": "",
+                "end_time": "2341",
+                "navi_poiside": "",
+                "xy_coords": "116.386829;39.933247",
+                "poiid2_xy": "116.386829;39.933247",
+                "poiid2": "BV10013508"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "平安里",
+                "station_num": "22",
+                "poiid1": "BS10863125",
+                "start_time": "0532",
+                "spell": "ping an li",
+                "time_desc_json": "",
+                "station_id": "110100023339015",
+                "navi_poiname": "",
+                "end_time": "2344",
+                "navi_poiside": "",
+                "xy_coords": "116.371255;39.932658",
+                "poiid2_xy": "116.372883;39.933949",
+                "poiid2": "BV10013413"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "车公庄",
+                "station_num": "23",
+                "poiid1": "BS10026617",
+                "start_time": "0535",
+                "spell": "che gong zhuang",
+                "time_desc_json": "",
+                "station_id": "110100023339016",
+                "navi_poiname": "",
+                "end_time": "2346",
+                "navi_poiside": "",
+                "xy_coords": "116.354357;39.932397",
+                "poiid2_xy": "116.354357;39.932397",
+                "poiid2": "BV10013437"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110102",
+                "navi_poiid": "",
+                "name": "车公庄西",
+                "station_num": "24",
+                "poiid1": "BS10000102",
+                "start_time": "0536",
+                "spell": "che gong zhuang xi",
+                "time_desc_json": "",
+                "station_id": "110100023339017",
+                "navi_poiname": "",
+                "end_time": "2348",
+                "navi_poiside": "",
+                "xy_coords": "116.344082;39.932466",
+                "poiid2_xy": "116.344082;39.932466",
+                "poiid2": "BV10000051"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "白石桥南",
+                "station_num": "25",
+                "poiid1": "BS10858992",
+                "start_time": "0539",
+                "spell": "bai shi qiao nan",
+                "time_desc_json": "",
+                "station_id": "110100023339018",
+                "navi_poiname": "",
+                "end_time": "2351",
+                "navi_poiside": "",
+                "xy_coords": "116.324775;39.932445",
+                "poiid2_xy": "116.325680;39.933022",
+                "poiid2": "BV10000061"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "花园桥",
+                "station_num": "26",
+                "poiid1": "BS10026762",
+                "start_time": "0541",
+                "spell": "hua yuan qiao",
+                "time_desc_json": "",
+                "station_id": "110100023339019",
+                "navi_poiname": "",
+                "end_time": "2353",
+                "navi_poiside": "",
+                "xy_coords": "116.310683;39.93234",
+                "poiid2_xy": "116.310683;39.932340",
+                "poiid2": "BV10013509"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "慈寿寺",
+                "station_num": "27",
+                "poiid1": "BS10863139",
+                "start_time": "0544",
+                "spell": "ci shou si",
+                "time_desc_json": "",
+                "station_id": "110100023339020",
+                "navi_poiname": "",
+                "end_time": "2356",
+                "navi_poiside": "",
+                "xy_coords": "116.293779;39.932676",
+                "poiid2_xy": "116.295467;39.933268",
+                "poiid2": "BV10013496"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "海淀五路居",
+                "station_num": "28",
+                "poiid1": "BS10026764",
+                "start_time": "0447",
+                "spell": "hai dian wu lu ju",
+                "time_desc_json": "",
+                "station_id": "110100023339021",
+                "navi_poiname": "",
+                "end_time": "2359",
+                "navi_poiside": "",
+                "xy_coords": "116.276531;39.932584",
+                "poiid2_xy": "116.276531;39.932584",
+                "poiid2": "BV10013510"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "田村",
+                "station_num": "29",
+                "poiid1": "BS12415891",
+                "start_time": "0450",
+                "spell": "tian cun",
+                "time_desc_json": "",
+                "station_id": "110100023339030",
+                "navi_poiname": "",
+                "end_time": "0002",
+                "navi_poiside": "",
+                "xy_coords": "116.252914;39.929503",
+                "poiid2_xy": "116.252914;39.929503",
+                "poiid2": "BV11103939"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110108",
+                "navi_poiid": "",
+                "name": "廖公庄",
+                "station_num": "30",
+                "poiid1": "BS12415887",
+                "start_time": "0453",
+                "spell": "liao gong zhuang",
+                "time_desc_json": "",
+                "station_id": "110100023339031",
+                "navi_poiname": "",
+                "end_time": "0005",
+                "navi_poiside": "",
+                "xy_coords": "116.227292;39.932422",
+                "poiid2_xy": "116.227292;39.932422",
+                "poiid2": "BV11103937"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "西黄村",
+                "station_num": "31",
+                "poiid1": "BS12415889",
+                "start_time": "0455",
+                "spell": "xi huang cun",
+                "time_desc_json": "",
+                "station_id": "110100023339032",
+                "navi_poiname": "",
+                "end_time": "0008",
+                "navi_poiside": "",
+                "xy_coords": "116.206932;39.933605",
+                "poiid2_xy": "116.206932;39.933605",
+                "poiid2": "BV11103938"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "杨庄",
+                "station_num": "32",
+                "poiid1": "BS12417345",
+                "start_time": "0458",
+                "spell": "yang zhuang",
+                "time_desc_json": "",
+                "station_id": "110100023339033",
+                "navi_poiname": "",
+                "end_time": "0011",
+                "navi_poiside": "",
+                "xy_coords": "116.187004;39.92785",
+                "poiid2_xy": "116.187004;39.927850",
+                "poiid2": "BV10827741"
+            },
+            {
+                "status": "3",
+                "trans_flag": "",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "苹果园",
+                "station_num": "33",
+                "poiid1": "BS12147279",
+                "start_time": "",
+                "spell": "ping guo yuan",
+                "time_desc_json": "",
+                "station_id": "110100023339034",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.178314;39.925829",
+                "poiid2_xy": "116.178314;39.925829",
+                "poiid2": "BV10013454"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110107",
+                "navi_poiid": "",
+                "name": "金安桥",
+                "station_num": "34",
+                "poiid1": "BS12819058",
+                "start_time": "",
+                "spell": "jin an qiao",
+                "time_desc_json": "",
+                "station_id": "110100023339035",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.162586;39.923298",
+                "poiid2_xy": "116.163129;39.923566",
+                "poiid2": "BV10813545"
+            }],
+            "interval": "0006",
+            "bounds": "116.162586;39.901674;116.747434;39.933860",
+            "air": "1",
+            "length": "52.96226",
+            "end_time": "",
+            "is_realtime": "0"
+        }],
+        "bus_list": [],
+        "general_flag": "0",
+        "bounds": "116.163129;39.902652;116.747434;39.929792",
+        "version": "2.0-3.0.0140.1504",
+        "busline_count": "2",
+        "magicbox_data":
+        {},
+        "interior_count": "0",
+        "poi_list": [
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.902652",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339022",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "169.311631",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849035",
+                "poiid2": "BV10416639",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "潞城(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.747434",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.902650",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340029",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "349.238978",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849036",
+                "poiid2": "BV10416639",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "潞城(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.747432",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.747434",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10416639",
+            "name": "潞城(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023340|110100023339",
+                "display_x": "116.747434",
+                "display_y": "39.902652",
+                "businfo_ids": "BS10849036|BS10849035",
+                "businfo_line_alias": "6号线|6号线",
+                "businfo_ui_colors": "D0970A|D0970A",
+                "businfo_alias": "",
+                "businfo_angles": "349.238978|169.311631",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)|地铁6号线(潞城--金安桥)",
+                "businfo_stationids": "110100023340029|110100023339022",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.747432|116.747434",
+                "ys": "39.902650|39.902652",
+                "businfo_line_keys": "地铁6号线|地铁6号线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.902810+++39.902285+++39.902058+++39.903202",
+                "poiids": "BX10015664+++BX10015667+++BX10015666+++BX10015665",
+                "name": "parent_other_rel",
+                "pxs": "116.748672+++116.747105+++116.748907+++116.746413",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "潞城地铁站B东北口+++潞城地铁站D西南口+++潞城地铁站C东南口+++潞城地铁站A西北口",
+                "address": "6号线+++6号线+++6号线+++6号线",
+                "shortname": "B+++D+++C+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "潞城(地铁站)",
+            "cpdata": "",
+            "latitude": "39.902652",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "900000069871;900000092377",
+                "businfo_station_status": "1;3",
+                "businfo_line_types": "10;10",
+                "y": "39.923566",
+                "businfo_line_alias": "S1线;(在建)S1线",
+                "businfo_stationids": "900000069871002;900000092377002",
+                "businfo_ui_colors": "B35A1F;B35A1F",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "180.045145",
+                "businfo_expect_dates": ";",
+                "poiid": "BS12002702",
+                "poiid2": "BV10813545",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "金安桥(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "S1线(金安桥--石厂);(在建)S1线(苹果园--金安桥)",
+                "x": "116.163129",
+                "businfo_realbus": "0;0",
+                "businfo_line_keys": "S1线;(在建)S1线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "900000069872;900000092376",
+                "businfo_station_status": "1;3",
+                "businfo_line_types": "10;10",
+                "y": "39.923566",
+                "businfo_line_alias": "S1线;(在建)S1线",
+                "businfo_stationids": "900000069872015;900000092376001",
+                "businfo_ui_colors": "B35A1F;B35A1F",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "0.045145",
+                "businfo_expect_dates": ";",
+                "poiid": "BS12147275",
+                "poiid2": "BV10813545",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "金安桥(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "S1线(石厂--金安桥);(在建)S1线(金安桥--苹果园)",
+                "x": "116.163129",
+                "businfo_realbus": "0;0",
+                "businfo_line_keys": "S1线;(在建)S1线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.923298",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339035",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "180.056728",
+                "businfo_expect_dates": "",
+                "poiid": "BS12819058",
+                "poiid2": "BV10813545",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "金安桥(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "C",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.162586",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.923298",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340034",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "0.056728",
+                "businfo_expect_dates": "",
+                "poiid": "BS12819059",
+                "poiid2": "BV10813545",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "金安桥(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "D",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.162586",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.163129",
+            "address": "(在建)S1线;6号线;S1线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10813545",
+            "name": "金安桥(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339|900000069872;900000092376|110100023340|900000069871;900000092377",
+                "display_x": "116.163129",
+                "display_y": "39.923566",
+                "businfo_ids": "BS12819058|BS12147275|BS12819059|BS12002702",
+                "businfo_line_alias": "6号线|S1线;(在建)S1线|6号线|S1线;(在建)S1线",
+                "businfo_ui_colors": "D0970A|B35A1F;B35A1F|D0970A|B35A1F;B35A1F",
+                "businfo_alias": "",
+                "businfo_angles": "180.056728|0.045145|0.056728|180.045145",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)|S1线(石厂--金安桥);(在建)S1线(金安桥--苹果园)|地铁6号线(金安桥--潞城)|S1线(金安桥--石厂);(在建)S1线(苹果园--金安桥)",
+                "businfo_stationids": "110100023339035|900000069872015;900000092376001|110100023340034|900000069871002;900000092377002",
+                "businfo_line_types": "2|10;10|2|10;10",
+                "businfo_road_ids": " | | | ",
+                "businfo_station_status": "1|1;3|1|1;3",
+                "businfo_meshs": " | | | ",
+                "xs": "116.162586|116.163129|116.162586|116.163129",
+                "ys": "39.923298|39.923566|39.923298|39.923566",
+                "businfo_line_keys": "地铁6号线|S1线;(在建)S1线|地铁6号线|S1线;(在建)S1线",
+                "businfo_expect_dates": " |;| |;",
+                "businfo_realbus": "0|0;0|0|0;0"
+            },
+            "adcode": "110107",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.923339+++39.924014+++39.923492+++39.923491",
+                "poiids": "BX10025919+++BX10025918+++BX10024596+++BX10024595",
+                "name": "parent_other_rel",
+                "pxs": "116.163415+++116.162323+++116.162242+++116.163072",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "金安桥地铁站D东北口+++金安桥地铁站C西北口+++金安桥地铁站B西口+++金安桥地铁站A东口",
+                "address": "6号线+++6号线+++S1线+++S1线",
+                "shortname": "D+++C+++B+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "金安桥(地铁站)",
+            "cpdata": "",
+            "latitude": "39.923566",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.923168",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340017",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "0.749210",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026757",
+                "poiid2": "BV10013507",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "青年路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.517429",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.923168",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339006",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "180.793886",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026758",
+                "poiid2": "BV10013507",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "青年路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.517429",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.517429",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013507",
+            "name": "青年路(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339|110100023340",
+                "display_x": "116.517429",
+                "display_y": "39.923168",
+                "businfo_ids": "BS10026758|BS10026757",
+                "businfo_line_alias": "6号线|6号线",
+                "businfo_ui_colors": "D0970A|D0970A",
+                "businfo_alias": "",
+                "businfo_angles": "180.793886|0.749210",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)|地铁6号线(金安桥--潞城)",
+                "businfo_stationids": "110100023339006|110100023340017",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.517429|116.517429",
+                "ys": "39.923168|39.923168",
+                "businfo_line_keys": "地铁6号线|地铁6号线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/f3787097c41e02e57d1940e83e0324cf",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.923417+++39.922713+++39.923381+++39.922738",
+                "poiids": "BX10024943+++BX10015694+++BX10015693+++BX10015692",
+                "name": "parent_other_rel",
+                "pxs": "116.517029+++116.518135+++116.518799+++116.516073",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "青年路地铁站A西北口+++青年路地铁站C东南口+++青年路地铁站B东北口+++青年路地铁站D西南口",
+                "address": "6号线+++6号线+++6号线+++6号线",
+                "shortname": "A+++C+++B+++D",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "青年路(地铁站)",
+            "cpdata": "",
+            "latitude": "39.923168",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.917962",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339028",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "90.000000",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849043",
+                "poiid2": "BV10416643",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "通州北关(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.661131",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.917962",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340023",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "269.915180",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849044",
+                "poiid2": "BV10416643",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "通州北关(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.661131",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.661131",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10416643",
+            "name": "通州北关(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339|110100023340",
+                "display_x": "116.661131",
+                "display_y": "39.917962",
+                "businfo_ids": "BS10849043|BS10849044",
+                "businfo_line_alias": "6号线|6号线",
+                "businfo_ui_colors": "D0970A|D0970A",
+                "businfo_alias": "",
+                "businfo_angles": "90.000000|269.915180",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)|地铁6号线(金安桥--潞城)",
+                "businfo_stationids": "110100023339028|110100023340023",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.661131|116.661131",
+                "ys": "39.917962|39.917962",
+                "businfo_line_keys": "地铁6号线|地铁6号线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/2811de4140f84c83e0e40cf16838547a",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.919324+++39.918995+++39.917588+++39.916110",
+                "poiids": "BX10015701+++BX10015700+++BX10015699+++BX10015698",
+                "name": "parent_other_rel",
+                "pxs": "116.661646+++116.660407+++116.659789+++116.660932",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "通州北关地铁站B东北口+++通州北关地铁站A西北口+++通州北关地铁站D西南口+++通州北关地铁站C南口",
+                "address": "6号线+++6号线+++6号线+++6号线",
+                "shortname": "B+++A+++D+++C",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "通州北关(地铁站)",
+            "cpdata": "",
+            "latitude": "39.917962",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.903024",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339026",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "159.629949",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849053",
+                "poiid2": "BV10416648",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "北运河西(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.688358",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.903024",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340025",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "339.392211",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849054",
+                "poiid2": "BV10416648",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "北运河西(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.688358",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.688358",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10416648",
+            "name": "北运河西(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023340|110100023339",
+                "display_x": "116.688358",
+                "display_y": "39.903024",
+                "businfo_ids": "BS10849054|BS10849053",
+                "businfo_line_alias": "6号线|6号线",
+                "businfo_ui_colors": "D0970A|D0970A",
+                "businfo_alias": "",
+                "businfo_angles": "339.392211|159.629949",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)|地铁6号线(潞城--金安桥)",
+                "businfo_stationids": "110100023340025|110100023339026",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.688358|116.688358",
+                "ys": "39.903024|39.903024",
+                "businfo_line_keys": "地铁6号线|地铁6号线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/29b4150b8c4b29cf400e8f69ab781869",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.902941+++39.902494+++39.903557",
+                "poiids": "BX10024942+++BX10015723+++BX10015722",
+                "name": "parent_other_rel",
+                "pxs": "116.689491+++116.688992+++116.687709",
+                "childtype": "107+++107+++107",
+                "poiname": "北运河西地铁站B东北口+++北运河西地铁站C东南口+++北运河西地铁站A西北口",
+                "address": "6号线+++6号线+++6号线",
+                "shortname": "B+++C+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "北运河西(地铁站)",
+            "cpdata": "",
+            "latitude": "39.903024",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.926801",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339029",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "179.882831",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849047",
+                "poiid2": "BV10416645",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "物资学院路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.639316",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.926801",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340022",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "359.824067",
+                "businfo_expect_dates": "",
+                "poiid": "BS10849048",
+                "poiid2": "BV10416645",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "物资学院路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.639316",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.639316",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10416645",
+            "name": "物资学院路(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339|110100023340",
+                "display_x": "116.639316",
+                "display_y": "39.926801",
+                "businfo_ids": "BS10849047|BS10849048",
+                "businfo_line_alias": "6号线|6号线",
+                "businfo_ui_colors": "D0970A|D0970A",
+                "businfo_alias": "",
+                "businfo_angles": "179.882831|359.824067",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)|地铁6号线(金安桥--潞城)",
+                "businfo_stationids": "110100023339029|110100023340022",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.639316|116.639316",
+                "ys": "39.926801|39.926801",
+                "businfo_line_keys": "地铁6号线|地铁6号线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/e5cd1f9700670d8595e31f6aeb5cfb8b",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.926903+++39.926631+++39.927087",
+                "poiids": "BX10015696+++BX10015697+++BX10015695",
+                "name": "parent_other_rel",
+                "pxs": "116.641009+++116.639055+++116.638834",
+                "childtype": "107+++107+++107",
+                "poiname": "物资学院路地铁站B东北口+++物资学院路地铁站D西南口+++物资学院路地铁站A西北口",
+                "address": "6号线+++6号线+++6号线",
+                "shortname": "B+++D+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "物资学院路(地铁站)",
+            "cpdata": "",
+            "latitude": "39.926801",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.925696",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340020",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "2.113277",
+                "businfo_expect_dates": "",
+                "poiid": "BS10013419",
+                "poiid2": "BV10006429",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "常营(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.599722",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.925696",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339003",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "182.111053",
+                "businfo_expect_dates": "",
+                "poiid": "BS10013420",
+                "poiid2": "BV10006429",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "常营(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.599722",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.599722",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10006429",
+            "name": "常营(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339|110100023340",
+                "display_x": "116.599722",
+                "display_y": "39.925696",
+                "businfo_ids": "BS10013420|BS10013419",
+                "businfo_line_alias": "6号线|6号线",
+                "businfo_ui_colors": "D0970A|D0970A",
+                "businfo_alias": "",
+                "businfo_angles": "182.111053|2.113277",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)|地铁6号线(金安桥--潞城)",
+                "businfo_stationids": "110100023339003|110100023340020",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.599722|116.599722",
+                "ys": "39.925696|39.925696",
+                "businfo_line_keys": "地铁6号线|地铁6号线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/84d9d02dbe52d52fee0afd3c71affb70",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.925471+++39.925511+++39.925321+++39.925346+++39.926296+++39.926226+++39.926208",
+                "poiids": "BX10015688+++BX10015687+++BX10015686+++BX10015685+++BX10015684+++BX10015683+++BX10015682",
+                "name": "parent_other_rel",
+                "pxs": "116.600924+++116.601388+++116.598146+++116.598578+++116.600379+++116.598990+++116.598609",
+                "childtype": "107+++107+++107+++107+++107+++107+++107",
+                "poiname": "常营地铁站E东南口+++常营地铁站D东南口+++常营地铁站G西南口+++常营地铁站F西南口+++常营地铁站C东北口+++常营地铁站B西北口+++常营地铁站A西北口",
+                "address": "6号线+++6号线+++6号线+++6号线+++6号线+++6号线+++6号线",
+                "shortname": "E+++D+++G+++F+++C+++B+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "常营(地铁站)",
+            "cpdata": "",
+            "latitude": "39.925696",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "170200",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.619101",
+            "address": "",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFG9VFDX",
+            "name": "北京地铁6号线五里桥车辆段",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [
+            {
+                "latitude": "39.928535",
+                "longitude": "116.618318"
+            }],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "170200",
+            "disp_name": "北京地铁6号线五里桥车辆段",
+            "cpdata": "",
+            "latitude": "39.928639",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023340",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.924477",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023340021",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "13.562498",
+                "businfo_expect_dates": "",
+                "poiid": "BS10014285",
+                "poiid2": "BV10006882",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "草房(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁6号线(金安桥--潞城)",
+                "x": "116.615574",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023339",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.924477",
+                "businfo_line_alias": "6号线",
+                "businfo_stationids": "110100023339002",
+                "businfo_ui_colors": "D0970A",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "193.523161",
+                "businfo_expect_dates": "",
+                "poiid": "BS10014286",
+                "poiid2": "BV10006882",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "草房(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)",
+                "x": "116.615574",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁6号线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.615574",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10006882",
+            "name": "草房(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339|110100023340",
+                "display_x": "116.615574",
+                "display_y": "39.924477",
+                "businfo_ids": "BS10014286|BS10014285",
+                "businfo_line_alias": "6号线|6号线",
+                "businfo_ui_colors": "D0970A|D0970A",
+                "businfo_alias": "",
+                "businfo_angles": "193.523161|13.562498",
+                "businfo_line_names": "地铁6号线(潞城--金安桥)|地铁6号线(金安桥--潞城)",
+                "businfo_stationids": "110100023339002|110100023340021",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.615574|116.615574",
+                "ys": "39.924477|39.924477",
+                "businfo_line_keys": "地铁6号线|地铁6号线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/620a592075a7accccf815bc3253bc904",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.924380+++39.925076+++39.924163+++39.924696",
+                "poiids": "BX10015713+++BX10015712+++BX10015711+++BX10015710",
+                "name": "parent_other_rel",
+                "pxs": "116.616782+++116.616285+++116.615757+++116.615173",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "草房地铁站C东南口+++草房地铁站B东北口+++草房地铁站D西南口+++草房地铁站A西北口",
+                "address": "6号线+++6号线+++6号线+++6号线",
+                "shortname": "C+++B+++D+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "草房(地铁站)",
+            "cpdata": "",
+            "latitude": "39.924477",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "十里堡地铁站C东南口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "SHILIPU",
+                "businfo_stationids": "110100023339007;110100023340016",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333900706;11010002334001606",
+                "bus_alias": "A",
+                "businfo_station_name": "十里堡",
+                "y": "39.922714",
+                "x": "116.502876",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10000481",
+                "poiid": "BT10015715",
+                "poiid2": "BX10015716"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.502876",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015716",
+            "name": "十里堡地铁站C东南口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "BV10003000;B0FFF3K7TJ;B000A84D52;B0FFGG5MHG;B000A7VQYV;B0FFIKFR03",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.922714",
+                "businfo_station_name_en": "SHILIPU",
+                "businfo_stationids": "110100023339007;110100023340016",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333900706;11010002334001606",
+                "poiid1s": "BT10015715",
+                "exs": "116.502876",
+                "businfo_station_name": "十里堡",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10000481"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "十里堡地铁站C东南口",
+            "cpdata": "",
+            "latitude": "39.922714",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "田村地铁站A西北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "Tiancun",
+                "businfo_stationids": "110100023339030;110100023340033",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333903002;11010002334003301",
+                "bus_alias": "A",
+                "businfo_station_name": "田村",
+                "y": "39.929786",
+                "x": "116.252442",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV11103939",
+                "poiid": "BT10025742",
+                "poiid2": "BX10025743"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.252442",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10025743",
+            "name": "田村地铁站A西北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "B0FFFAEA3V;B0FFHXQTQ2;BV10010044;B000A81EZX;B0FFLI8EVO;BV10007343",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.929786",
+                "businfo_station_name_en": "Tiancun",
+                "businfo_stationids": "110100023339030;110100023340033",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333903002;11010002334003301",
+                "poiid1s": "BT10025742",
+                "exs": "116.252442",
+                "businfo_station_name": "田村",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV11103939"
+            },
+            "adcode": "110108",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "田村地铁站A西北口",
+            "cpdata": "",
+            "latitude": "39.929786",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "杨庄地铁站B东北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "Yangzhuang",
+                "businfo_stationids": "110100023339033;110100023340030",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333903302;11010002334003002",
+                "bus_alias": "A",
+                "businfo_station_name": "杨庄",
+                "y": "39.928519",
+                "x": "116.188661",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10827741",
+                "poiid": "BT10025738",
+                "poiid2": "BX10025739"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.188661",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10025739",
+            "name": "杨庄地铁站B东北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "B000A7YW69;B0FFHLM1DF;B000A8683A;B0FFM3741R;B000A87AE1;B0FFIA481R",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.928519",
+                "businfo_station_name_en": "Yangzhuang",
+                "businfo_stationids": "110100023339033;110100023340030",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333903302;11010002334003002",
+                "poiid1s": "BT10025738",
+                "exs": "116.188661",
+                "businfo_station_name": "杨庄",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10827741"
+            },
+            "adcode": "110107",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "杨庄地铁站B东北口",
+            "cpdata": "",
+            "latitude": "39.928519",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "东四地铁站A西北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "3",
+                "businfo_station_name_en": "DONGSI",
+                "businfo_stationids": "110100023339012;110100023340011",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333901203;11010002334001107",
+                "bus_alias": "A",
+                "businfo_station_name": "东四",
+                "y": "39.924721",
+                "x": "116.417211",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013442",
+                "poiid": "BT10015584",
+                "poiid2": "BX10015585"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.417211",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015585",
+            "name": "东四地铁站A西北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "3",
+                "eys": "39.924721",
+                "businfo_station_name_en": "DONGSI",
+                "businfo_stationids": "110100023339012;110100023340011",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333901203;11010002334001107",
+                "poiid1s": "BT10015584",
+                "exs": "116.417211",
+                "businfo_station_name": "东四",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013442"
+            },
+            "adcode": "110101",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "东四地铁站A西北口",
+            "cpdata": "",
+            "latitude": "39.924721",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "15601214983",
+            "typecode": "100000",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.617127",
+            "address": "五里桥二街2号院",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFLGMF4U",
+            "name": "北京像素地铁6号线草房站简洁商务公寓(2号店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "action": "hotel_flag",
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/148054b1d146efb533068b9a7aff5b92",
+                "name": "pic_info"
+            },
+            {
+                "src": "is_overbooked",
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "value": "常营",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "value": "<font color='#999999'>起价:</font><font color='#f53623'>￥</font><font color='#f53623'>268</font>",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "100000",
+            "disp_name": "北京像素地铁6号线草房站简洁商务公寓(2号店)",
+            "cpdata": "",
+            "latitude": "39.925379",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "田村地铁站B东北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "Tiancun",
+                "businfo_stationids": "110100023339030;110100023340033",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333903003;11010002334003303",
+                "bus_alias": "A",
+                "businfo_station_name": "田村",
+                "y": "39.929792",
+                "x": "116.253657",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV11103939",
+                "poiid": "BT10026260",
+                "poiid2": "BX10026261"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.253657",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10026261",
+            "name": "田村地铁站B东北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "BV10903782;BV10903783;BV10007184;B0FFMCT7IV;B0FFL4S1JR;B0FFF6WEK3",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.929792",
+                "businfo_station_name_en": "Tiancun",
+                "businfo_stationids": "110100023339030;110100023340033",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333903003;11010002334003303",
+                "poiid1s": "BT10026260",
+                "exs": "116.253657",
+                "businfo_station_name": "田村",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV11103939"
+            },
+            "adcode": "110108",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "田村地铁站B东北口",
+            "cpdata": "",
+            "latitude": "39.929792",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "田村地铁站D西南口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "Tiancun",
+                "businfo_stationids": "110100023339030;110100023340033",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333903001;11010002334003302",
+                "bus_alias": "A",
+                "businfo_station_name": "田村",
+                "y": "39.928545",
+                "x": "116.252360",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV11103939",
+                "poiid": "BT10025741",
+                "poiid2": "BX10025742"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.252360",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10025742",
+            "name": "田村地铁站D西南口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "BV10007347;B0FFF8NN2L;B000A8U1PX;B000A9JTDO;B000A81EZU;B0FFIB9A35",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.928545",
+                "businfo_station_name_en": "Tiancun",
+                "businfo_stationids": "110100023339030;110100023340033",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333903001;11010002334003302",
+                "poiid1s": "BT10025741",
+                "exs": "116.25236",
+                "businfo_station_name": "田村",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV11103939"
+            },
+            "adcode": "110108",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "田村地铁站D西南口",
+            "cpdata": "",
+            "latitude": "39.928545",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "黄渠地铁站B东北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333900405;11010002334001906",
+                "bus_alias": "A",
+                "businfo_station_name": "黄渠",
+                "y": "39.924769",
+                "x": "116.578644",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505",
+                "poiid": "BT10015708",
+                "poiid2": "BX10015709"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.578644",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015709",
+            "name": "黄渠地铁站B东北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "B0FFJFPTAN;B0FFISD7XN;BV10915113;B0FFH00MR9;BV11257987;B0FFIKA7LX",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.924769",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333900405;11010002334001906",
+                "poiid1s": "BT10015708",
+                "exs": "116.578644",
+                "businfo_station_name": "黄渠",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "黄渠地铁站B东北口",
+            "cpdata": "",
+            "latitude": "39.924769",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "黄渠地铁站A西北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333900407;11010002334001908",
+                "bus_alias": "A",
+                "businfo_station_name": "黄渠",
+                "y": "39.924454",
+                "x": "116.577127",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505",
+                "poiid": "BT10015707",
+                "poiid2": "BX10015708"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.577127",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015708",
+            "name": "黄渠地铁站A西北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "B0FFFAEHJT;BV10601893;BV10601892;B0FFG8UMBV;BV10006432",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.924454",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333900407;11010002334001908",
+                "poiid1s": "BT10015707",
+                "exs": "116.577127",
+                "businfo_station_name": "黄渠",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "黄渠地铁站A西北口",
+            "cpdata": "",
+            "latitude": "39.924454",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "黄渠地铁站D西南口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333900406;11010002334001905",
+                "bus_alias": "A",
+                "businfo_station_name": "黄渠",
+                "y": "39.923810",
+                "x": "116.577150",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505",
+                "poiid": "BT10015706",
+                "poiid2": "BX10015707"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.577150",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015707",
+            "name": "黄渠地铁站D西南口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "B0FFJL1RDS;B0FFHW5SBY;B0FFLKJUPP;B0FFFAEMRK;B0FFGZF83T;B0FFHB2SAT",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.92381",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333900406;11010002334001905",
+                "poiid1s": "BT10015706",
+                "exs": "116.57715",
+                "businfo_station_name": "黄渠",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "黄渠地铁站D西南口",
+            "cpdata": "",
+            "latitude": "39.923810",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "name": "黄渠地铁站C东南口",
+                "businfo_angles": "",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002333900408;11010002334001907",
+                "bus_alias": "A",
+                "businfo_station_name": "黄渠",
+                "y": "39.923941",
+                "x": "116.579009",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505",
+                "poiid": "BT10015705",
+                "poiid2": "BX10015706"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.579009",
+            "address": "6号线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015706",
+            "name": "黄渠地铁站C东南口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023339;110100023340",
+                "businfo_landmark_poiids": "B0FFH16J0X;B0FFGY3GTS;BV10006431;B0FFFLIU9Z;B000AA4ILA;BV10915115",
+                "businfo_line_alias": "6号线;6号线",
+                "businfo_exit_status": "1",
+                "eys": "39.923941",
+                "businfo_station_name_en": "HUANGQU",
+                "businfo_stationids": "110100023339004;110100023340019",
+                "businfo_ui_colors": "D0970A;D0970A",
+                "businfo_exitids": "11010002333900408;11010002334001907",
+                "poiid1s": "BT10015705",
+                "exs": "116.579009",
+                "businfo_station_name": "黄渠",
+                "businfo_line_names": "地铁6号线(潞城--金安桥);地铁6号线(金安桥--潞城)",
+                "businfo_line_keys": "地铁6号线;地铁6号线",
+                "businfo_station_poiid2": "BV10013505"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "黄渠地铁站C东南口",
+            "cpdata": "",
+            "latitude": "39.923941",
+            "discount_flag": "0"
+        }]
+    }
+}

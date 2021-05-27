@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Part 3, tube distribution</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet"/>
+    <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+    <link href="Violet_part3.css" rel='stylesheet'/>
+
+</head>
+
+<body>
+
+  <div id="map_v"></div>
+  <div id="console">
+    <h1>Beijing Underground Map</h1>
+    <p>
+    Data:
+    <a
+    href="http://map.amap.com/subway/index.html?&4401"
+    >GaoDe Map, Beijing Undergraound</a
+    >
+    May 2021
+    </p>
+    <div class="session">
+    <h2>House Price per square metres (in RMB)</h2>
+    <div class="row_v colors"></div>
+    <div class="row_v labels">
+    <div class="label">20k-</div>
+    <div class="label">30k</div>
+    <div class="label">60k</div>
+    <div class="label">90k</div>
+    <div class="label">120k</div>
+    <div class="label">140k+</div>
+    </div>
+    </div>
+    <div class='session'>
+      <h2>House price per square meter (in RMB)</h2>
+      <table><tr><td>
+        <input id='one' type='radio' name='toggle' value='range1'>
+        <label for='one'>below 30k</label></td></tr>
+
+        <tr><td><input id='two' type='radio' name='toggle' value='range2'>
+        <label for='two'>below 60k</label></td></tr>
+
+        <tr><td><input id='three' type='radio' name='toggle' value='range3'>
+        <label for='three'>below 90k</label></td></tr>
+
+        <tr><td><input id='four' type='radio' name='toggle' value='range4'>
+        <label for='four'>below 120k</label></td></tr>
+
+        <tr><td> <input id='five' type='radio' name='toggle' value='range5'>
+        <label for='five'>below 150k</label></td></tr>
+           </td>
+           </tr>
+           </table>        
+           </div>
+
+    <!-- Chart container -->
+    <div id="myChart">
+      <h2>Nearby unit price(in RMB)</h2>
+      <!-- Drop-down -->
+      <select id="chart-selector" name="chart-selector">
+        
+        <option value="">Please Select An Option</option>
+        <option value="HDHZ">HaiDianHuangZhuang Station</option>
+        <option value="SJZ">SongJiaZhuang Station</option>
+        <option value="XWM">XuanWuMen Station</option>
+        <option value="JGM">JianGuoMen Station</option>
+        
+      </select>
+     </div>
+  </div>
+    <div id="features">
+      <section id="overview" class="active">
+        <h3>Relationship overview</h3>
+        <p>
+          In general，we would observe from the map that the unit house price is higher in the northwest and lower in southwest areas. 
+          From some empirical studies, scholars had found a positive correlation between distance to tube station and house price. The pattern 
+          of the closer to the station, the higher the house price would be observed. And the correlation is clearer if to only analysis stations with the highest passenger flows. 
+      </br></br>Scroll down to see more stories.
+        </p>
+        </section>
+      <section id="HDHZ" >
+        <h3>HaiDianHuangZhuang Station</h3>
+        <p>
+          This is a station which surrounded by many famous universities and junior Schools. According to the bar chart, the unit price is much 
+          higher near the station while lower in further nearby areas. And the average house price in the district is even only 1/3 of the apartment 
+          near the station. A similar situation also applies to JianGuoMen Station, which is a station surrounded by many large shopping malls.
+        </p>
+        </section>
+      <section id="SJZ">
+      <h3>SongJiaZhuang Station</h3>
+      <p>
+      This station is located in more uptown areas of Beijing. And it is one of the biggest station for daily transportation of people who
+      live in near by cities. Due to the reason that it is a big transportation node. The surrounding apartments are not as high as the whole district.
+      </p>
+      </section>
+      <section id="XWM">
+      <h3>XuanWuMen Staion</h3>
+      <p>
+        This station is another exception. It is located in the most central area of Beijing near Tian'an men Square. In general, the whole district has a super high unit price. 
+        Thus, in this situation, nearby tube stations would not be advantageous. Customers who can afford the house price also consider other factors. For example, 
+        they do not need to take tube for daily transportation and there may be higher pollution near the station which is harmful for their health. 
+      </section>
+      
+  </div>
+  
+  <!-- Your script -->
+  <script src="Violet_part3.js"></script>
+</body>
+
+</html>

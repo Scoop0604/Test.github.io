@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "beijinggeojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "district": "daxing", "Lat": "39.73", "Long": "116.33" }, "geometry": { "type": "Point", "coordinates": [ 116.33, 39.73 ] } },
+{ "type": "Feature", "properties": { "district": "mentougou", "Lat": "39.93", "Long": "116.1" }, "geometry": { "type": "Point", "coordinates": [ 116.1, 39.93 ] } },
+{ "type": "Feature", "properties": { "district": "haidian", "Lat": "39.95", "Long": "116.3" }, "geometry": { "type": "Point", "coordinates": [ 116.3, 39.95 ] } },
+{ "type": "Feature", "properties": { "district": "miyun", "Lat": "40.37", "Long": "116.83" }, "geometry": { "type": "Point", "coordinates": [ 116.83, 40.37 ] } },
+{ "type": "Feature", "properties": { "district": "yanqing", "Lat": "40.46", "Long": "115.97" }, "geometry": { "type": "Point", "coordinates": [ 115.97, 40.46 ] } },
+{ "type": "Feature", "properties": { "district": "huairou", "Lat": "40.32", "Long": "116.63" }, "geometry": { "type": "Point", "coordinates": [ 116.63, 40.32 ] } },
+{ "type": "Feature", "properties": { "district": "pinggu", "Lat": "40.13", "Long": "117.12" }, "geometry": { "type": "Point", "coordinates": [ 117.12, 40.13 ] } },
+{ "type": "Feature", "properties": { "district": "shijingshan", "Lat": "39.9", "Long": "116.22" }, "geometry": { "type": "Point", "coordinates": [ 116.22, 39.9 ] } },
+{ "type": "Feature", "properties": { "district": "fengtai", "Lat": "39.85", "Long": "116.28" }, "geometry": { "type": "Point", "coordinates": [ 116.28, 39.85 ] } },
+{ "type": "Feature", "properties": { "district": "dongcheng", "Lat": "39.93", "Long": "116.42" }, "geometry": { "type": "Point", "coordinates": [ 116.42, 39.93 ] } },
+{ "type": "Feature", "properties": { "district": "shunyi", "Lat": "40.13", "Long": "116.65" }, "geometry": { "type": "Point", "coordinates": [ 116.65, 40.13 ] } },
+{ "type": "Feature", "properties": { "district": "fangshan", "Lat": "39.75", "Long": "116.13" }, "geometry": { "type": "Point", "coordinates": [ 116.13, 39.75 ] } },
+{ "type": "Feature", "properties": { "district": "chaoyang", "Lat": "39.92", "Long": "116.43" }, "geometry": { "type": "Point", "coordinates": [ 116.43, 39.92 ] } },
+{ "type": "Feature", "properties": { "district": "xicheng", "Lat": "39.92", "Long": "116.37" }, "geometry": { "type": "Point", "coordinates": [ 116.37, 39.92 ] } },
+{ "type": "Feature", "properties": { "district": "changping", "Lat": "40.22", "Long": "116.23" }, "geometry": { "type": "Point", "coordinates": [ 116.23, 40.22 ] } },
+{ "type": "Feature", "properties": { "district": "tongzhou", "Lat": "39.90", "Long": "116.65" }, "geometry": { "type": "Point", "coordinates": [ 116.65, 39.90 ] } }
+]
+}

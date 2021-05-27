@@ -1,0 +1,4202 @@
+{
+    "status": "1",
+    "searchOpt":
+    {
+        "city": "110000",
+        "pageSize": "20",
+        "pageIndex": "1",
+        "ac": "false",
+        "keyword": "地铁亦庄线",
+        "type": "4"
+    },
+    "data":
+    {
+        "codepoint": 0,
+        "code": "1",
+        "suggestion":
+        {},
+        "timestamp": "1590295386.9",
+        "lqii":
+        {
+            "cache_directive":
+            {
+                "cache_filter":
+                {
+                    "flag": "1",
+                    "expires": "24"
+                },
+                "cache_all":
+                {
+                    "flag": "0"
+                }
+            },
+            "query_intent":
+            {
+                "cate_list": "",
+                "type": "1000",
+                "cate": "",
+                "cate_ext": ""
+            },
+            "general_flag": "",
+            "specialclassify": "0",
+            "view_region": "116.411012200,39.853171600,116.619281800,39.765300400",
+            "smartspot": "0",
+            "suggestcontent": "",
+            "category_brand_recognition_result": "0",
+            "pdheatmap": "",
+            "render_name_flag": "1",
+            "city_info_attr":
+            {
+                "map_view_city": "110000",
+                "target_city": "11",
+                "user_loc_city": ""
+            },
+            "is_current_city": "2",
+            "expand_range_tip": "",
+            "suggest_query":
+            {
+                "data": [],
+                "col": "",
+                "row": ""
+            },
+            "change_query_tip": "",
+            "is_tupu_sug": "0",
+            "has_recommend": "0",
+            "brand_intent":
+            {
+                "t_tag": "",
+                "hierarchy_strategy": "0",
+                "cate": "",
+                "hierarchy_idx": "-1",
+                "flag": "0",
+                "query_brand": "",
+                "name": ""
+            },
+            "suggestionview": "0",
+            "show_hand_drawing": "0",
+            "change_query_type": "",
+            "business": "",
+            "car_icon_flag": "0",
+            "tips_info":
+            {
+                "tip_rule": "",
+                "target_keywords_list": []
+            },
+            "slayer_type": "none",
+            "show_pic": "",
+            "is_view_city": "1",
+            "querytype": "5",
+            "category_brand_recognition_flag": 0,
+            "self_navigation": "",
+            "auto_query_cate": "交通出行=0.810000;出入口=0.185000\u0006交通出行|地铁站=0.810000;出入口|地铁站出入口=0.185000",
+            "showaoi": "",
+            "utd_sceneid": "1000",
+            "distance_info": "",
+            "slayer": "0",
+            "target_view_city": "",
+            "call_taxi": "0",
+            "preload_next_page": "0",
+            "magic_box":
+            {},
+            "activity":
+            {
+                "new_year":
+                {
+                    "flag": "0",
+                    "tip": ""
+                }
+            }
+        },
+        "is_general_search": "0",
+        "result": "true",
+        "keywords": "地铁亦庄线",
+        "message": "Successful.",
+        "total": "32",
+        "busline_list": [
+        {
+            "front_name": "宋家庄",
+            "areacode": "010",
+            "code": "110000",
+            "xs": "116.428379,116.428379,116.428256,116.428341,116.428606,116.429144,116.430054,116.430996,116.433099,116.434874,116.438191,116.441009,116.44367,116.445783,116.4476,116.448377,116.449154,116.450027,116.45131,116.452542,116.45377,116.45475,116.455633,116.456391,116.456957,116.457297,116.457584,116.458022,116.458558,116.458973,116.459226,116.459492,116.459986,116.460457,116.460614,116.460614,116.460536,116.460945,116.461107,116.461105,116.460936,116.460422,116.460317,116.460464,116.460565,116.460789,116.461014,116.4611,116.461415,116.461972,116.462828,116.464152,116.465676,116.468558,116.469635,116.470905,116.471845,116.47338,116.475748,116.479467,116.480307,116.481031,116.482517,116.483863,116.485418,116.489378,116.489868,116.490632,116.491332,116.492042,116.492617,116.493023,116.493514,116.494295,116.495126,116.496444,116.497674,116.498571,116.499608,116.500573,116.501637,116.502526,116.503643,116.505,116.505446,116.505801,116.512982,116.51339,116.513768,116.521368,116.521737,116.522126,116.530045,116.530756,116.531539,116.532196,116.532856,116.533681,116.534761,116.535583,116.536235,116.539193,116.539835,116.540463,116.561604,116.562245,116.562853,116.56566,116.572065,116.577812,116.580688,116.581357,116.58202,116.590686,116.591502,116.59232,116.601075,116.601913",
+            "id": "110100023103",
+            "terminal_name": "亦庄火车站",
+            "terminal_spell": "yi zhuang huo che zhan",
+            "basic_price": "3",
+            "type": "2",
+            "company": "北京市地铁运营有限公司",
+            "status": "1",
+            "ic_card": "1",
+            "neareststation": "",
+            "description": "",
+            "key_name": "地铁亦庄线",
+            "start_time": "0600",
+            "front_spell": "song jia zhuang",
+            "busline_event": "",
+            "ys": "39.844991,39.84409,39.838395,39.837411,39.836795,39.83633,39.83603,39.835842,39.83546,39.835178,39.834688,39.834413,39.834304,39.834304,39.834223,39.834222,39.83422,39.834185,39.834273,39.834198,39.834076,39.833888,39.83364,39.83335,39.833036,39.832792,39.832522,39.831896,39.830795,39.828839,39.827951,39.827069,39.826146,39.825213,39.82415,39.823206,39.821629,39.816938,39.812917,39.812164,39.811361,39.809588,39.808724,39.807923,39.807512,39.80691,39.806307,39.806072,39.805412,39.804614,39.803825,39.803034,39.802454,39.801698,39.801502,39.801358,39.801341,39.801419,39.801886,39.8028,39.803011,39.803192,39.803597,39.804035,39.804658,39.806363,39.806557,39.80689,39.807211,39.807493,39.80769,39.807819,39.807928,39.808069,39.808152,39.808194,39.80806,39.807901,39.807612,39.807303,39.806764,39.806171,39.805187,39.803445,39.802921,39.802493,39.793637,39.793132,39.792665,39.783266,39.782799,39.782324,39.772498,39.771726,39.771242,39.770973,39.770787,39.770683,39.770706,39.770907,39.771153,39.77259,39.7729,39.773205,39.78326,39.783587,39.783899,39.785263,39.788431,39.792201,39.794587,39.795118,39.795653,39.802826,39.8035,39.804175,39.811849,39.812607",
+            "total_price": "6",
+            "name": "地铁亦庄线(宋家庄--亦庄火车站)",
+            "auto": "0",
+            "stations": [
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110106",
+                "navi_poiid": "",
+                "name": "宋家庄",
+                "station_num": "1",
+                "poiid1": "BS11128361",
+                "start_time": "0600",
+                "spell": "song jia zhuang",
+                "time_desc_json": "",
+                "station_id": "110100023103002",
+                "navi_poiname": "",
+                "end_time": "2320",
+                "navi_poiside": "",
+                "xy_coords": "116.428379;39.844991",
+                "poiid2_xy": "116.428368;39.845849",
+                "poiid2": "BV10000743"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "肖村",
+                "station_num": "2",
+                "poiid1": "BS10023060",
+                "start_time": "0603",
+                "spell": "xiao cun",
+                "time_desc_json": "",
+                "station_id": "110100023103003",
+                "navi_poiname": "",
+                "end_time": "2323",
+                "navi_poiside": "",
+                "xy_coords": "116.448377;39.834222",
+                "poiid2_xy": "116.448364;39.834217",
+                "poiid2": "BV10011446"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "小红门",
+                "station_num": "3",
+                "poiid1": "BS10024099",
+                "start_time": "0605",
+                "spell": "xiao hong men",
+                "time_desc_json": "",
+                "station_id": "110100023103004",
+                "navi_poiname": "",
+                "end_time": "2325",
+                "navi_poiside": "",
+                "xy_coords": "116.459226;39.827951",
+                "poiid2_xy": "116.459226;39.827951",
+                "poiid2": "BV10012008"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "旧宫",
+                "station_num": "4",
+                "poiid1": "BS10000684",
+                "start_time": "0609",
+                "spell": "jiu gong",
+                "time_desc_json": "",
+                "station_id": "110100023103005",
+                "navi_poiname": "",
+                "end_time": "2329",
+                "navi_poiside": "",
+                "xy_coords": "116.460789;39.80691",
+                "poiid2_xy": "116.460789;39.806910",
+                "poiid2": "BV10000335"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "亦庄桥",
+                "station_num": "5",
+                "poiid1": "BS10026649",
+                "start_time": "0611",
+                "spell": "yi zhuang qiao",
+                "time_desc_json": "",
+                "station_id": "110100023103006",
+                "navi_poiname": "",
+                "end_time": "2331",
+                "navi_poiside": "",
+                "xy_coords": "116.480307;39.803011",
+                "poiid2_xy": "116.480307;39.803011",
+                "poiid2": "BV10013453"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "亦庄文化园",
+                "station_num": "6",
+                "poiid1": "BS10026647",
+                "start_time": "0613",
+                "spell": "yi zhuang wen hua yuan",
+                "time_desc_json": "",
+                "station_id": "110100023103007",
+                "navi_poiname": "",
+                "end_time": "2333",
+                "navi_poiside": "",
+                "xy_coords": "116.490632;39.80689",
+                "poiid2_xy": "116.490632;39.806890",
+                "poiid2": "BV10013452"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "万源街",
+                "station_num": "7",
+                "poiid1": "BS10026646",
+                "start_time": "0616",
+                "spell": "wan yuan jie",
+                "time_desc_json": "",
+                "station_id": "110100023103008",
+                "navi_poiname": "",
+                "end_time": "2336",
+                "navi_poiside": "",
+                "xy_coords": "116.505446;39.802921",
+                "poiid2_xy": "116.505446;39.802921",
+                "poiid2": "BV10013451"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "荣京东街",
+                "station_num": "8",
+                "poiid1": "BS10007501",
+                "start_time": "0618",
+                "spell": "rong jing dong jie",
+                "time_desc_json": "",
+                "station_id": "110100023103009",
+                "navi_poiname": "",
+                "end_time": "2338",
+                "navi_poiside": "",
+                "xy_coords": "116.51339;39.793132",
+                "poiid2_xy": "116.513390;39.793132",
+                "poiid2": "BV10003511"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "荣昌东街",
+                "station_num": "9",
+                "poiid1": "BS10026644",
+                "start_time": "0620",
+                "spell": "rong chang dong jie",
+                "time_desc_json": "",
+                "station_id": "110100023103010",
+                "navi_poiname": "",
+                "end_time": "2340",
+                "navi_poiside": "",
+                "xy_coords": "116.521737;39.782799",
+                "poiid2_xy": "116.521737;39.782799",
+                "poiid2": "BV10013450"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "同济南路",
+                "station_num": "10",
+                "poiid1": "BS10016297",
+                "start_time": "0624",
+                "spell": "tong ji nan lu",
+                "time_desc_json": "",
+                "station_id": "110100023103011",
+                "navi_poiname": "",
+                "end_time": "2344",
+                "navi_poiside": "",
+                "xy_coords": "116.539835;39.7729",
+                "poiid2_xy": "116.539835;39.772900",
+                "poiid2": "BV10007921"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "经海路",
+                "station_num": "11",
+                "poiid1": "BS10026641",
+                "start_time": "0627",
+                "spell": "jing hai lu",
+                "time_desc_json": "",
+                "station_id": "110100023103012",
+                "navi_poiname": "",
+                "end_time": "2347",
+                "navi_poiside": "",
+                "xy_coords": "116.562245;39.783587",
+                "poiid2_xy": "116.562245;39.783587",
+                "poiid2": "BV10013449"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "次渠南",
+                "station_num": "12",
+                "poiid1": "BS10026639",
+                "start_time": "0629",
+                "spell": "ci qu nan",
+                "time_desc_json": "",
+                "station_id": "110100023103013",
+                "navi_poiname": "",
+                "end_time": "2349",
+                "navi_poiside": "",
+                "xy_coords": "116.581357;39.795118",
+                "poiid2_xy": "116.581357;39.795118",
+                "poiid2": "BV10013448"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "次渠",
+                "station_num": "13",
+                "poiid1": "BS10022706",
+                "start_time": "0632",
+                "spell": "ci qu",
+                "time_desc_json": "",
+                "station_id": "110100023103014",
+                "navi_poiname": "",
+                "end_time": "2352",
+                "navi_poiside": "",
+                "xy_coords": "116.591502;39.8035",
+                "poiid2_xy": "116.591502;39.803500",
+                "poiid2": "BV10011266"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "亦庄火车站",
+                "station_num": "14",
+                "poiid1": "BS10026543",
+                "start_time": "",
+                "spell": "yi zhuang huo che zhan",
+                "time_desc_json": "",
+                "station_id": "110100023103015",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.601913;39.812607",
+                "poiid2_xy": "116.601913;39.812607",
+                "poiid2": "BV10013399"
+            }],
+            "interval": "0011",
+            "bounds": "116.428256;39.770683;116.601913;39.844991",
+            "air": "1",
+            "length": "22.80492",
+            "end_time": "2320",
+            "is_realtime": "0"
+        },
+        {
+            "front_name": "亦庄火车站",
+            "areacode": "010",
+            "code": "110000",
+            "xs": "116.601913,116.601075,116.59232,116.591502,116.590686,116.58202,116.581357,116.580688,116.577812,116.572065,116.56566,116.562853,116.562245,116.561604,116.540463,116.539835,116.539193,116.536235,116.535583,116.534761,116.533681,116.532856,116.532196,116.531539,116.530756,116.530045,116.522126,116.521737,116.521368,116.513768,116.51339,116.512982,116.505801,116.505446,116.505,116.503643,116.502526,116.501637,116.500573,116.499608,116.498571,116.497674,116.496444,116.495126,116.494295,116.493514,116.493023,116.492617,116.492042,116.491332,116.490632,116.489868,116.489378,116.485418,116.483863,116.482517,116.481031,116.480307,116.479467,116.475748,116.47338,116.471845,116.470905,116.469635,116.468558,116.465676,116.464152,116.462828,116.461972,116.461415,116.4611,116.461014,116.460789,116.460565,116.460464,116.460317,116.460422,116.460936,116.461105,116.461107,116.460945,116.460536,116.460614,116.460614,116.460457,116.459986,116.459492,116.459226,116.458973,116.458558,116.458022,116.457584,116.457297,116.456957,116.456391,116.455633,116.45475,116.45377,116.452542,116.45131,116.450027,116.449154,116.448364,116.4476,116.445783,116.44367,116.441009,116.438191,116.434874,116.433099,116.430996,116.430054,116.429144,116.428606,116.428341,116.428256,116.428379,116.428379",
+            "id": "110100023102",
+            "terminal_name": "宋家庄",
+            "terminal_spell": "song jia zhuang",
+            "basic_price": "3",
+            "type": "2",
+            "company": "北京市地铁运营有限公司",
+            "status": "1",
+            "ic_card": "1",
+            "neareststation": "",
+            "description": "",
+            "key_name": "地铁亦庄线",
+            "start_time": "0520",
+            "front_spell": "yi zhuang huo che zhan",
+            "busline_event": "",
+            "ys": "39.812607,39.811849,39.804175,39.8035,39.802826,39.795653,39.795118,39.794587,39.792201,39.788431,39.785263,39.783899,39.783587,39.78326,39.773205,39.7729,39.77259,39.771153,39.770907,39.770706,39.770683,39.770787,39.770973,39.771242,39.771726,39.772498,39.782324,39.782799,39.783266,39.792665,39.793132,39.793637,39.802493,39.802921,39.803445,39.805187,39.806171,39.806764,39.807303,39.807612,39.807901,39.80806,39.808194,39.808152,39.808069,39.807928,39.807819,39.80769,39.807493,39.807211,39.80689,39.806557,39.806363,39.804658,39.804035,39.803597,39.803192,39.803011,39.8028,39.801886,39.801419,39.801341,39.801358,39.801502,39.801698,39.802454,39.803034,39.803825,39.804614,39.805412,39.806072,39.806307,39.80691,39.807512,39.807923,39.808724,39.809588,39.811361,39.812164,39.812917,39.816938,39.821629,39.823206,39.82415,39.825213,39.826146,39.827069,39.827951,39.828839,39.830795,39.831896,39.832522,39.832792,39.833036,39.83335,39.83364,39.833888,39.834076,39.834198,39.834273,39.834185,39.83422,39.834217,39.834223,39.834304,39.834304,39.834413,39.834688,39.835178,39.83546,39.835842,39.83603,39.83633,39.836795,39.837411,39.838395,39.84409,39.844991",
+            "total_price": "6",
+            "name": "地铁亦庄线(亦庄火车站--宋家庄)",
+            "auto": "0",
+            "stations": [
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "亦庄火车站",
+                "station_num": "1",
+                "poiid1": "BS10026544",
+                "start_time": "0520",
+                "spell": "yi zhuang huo che zhan",
+                "time_desc_json": "",
+                "station_id": "110100023102015",
+                "navi_poiname": "",
+                "end_time": "2240",
+                "navi_poiside": "",
+                "xy_coords": "116.601913;39.812607",
+                "poiid2_xy": "116.601913;39.812607",
+                "poiid2": "BV10013399"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "次渠",
+                "station_num": "2",
+                "poiid1": "BS10022707",
+                "start_time": "0523",
+                "spell": "ci qu",
+                "time_desc_json": "",
+                "station_id": "110100023102002",
+                "navi_poiname": "",
+                "end_time": "2243",
+                "navi_poiside": "",
+                "xy_coords": "116.591502;39.8035",
+                "poiid2_xy": "116.591502;39.803500",
+                "poiid2": "BV10011266"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110112",
+                "navi_poiid": "",
+                "name": "次渠南",
+                "station_num": "3",
+                "poiid1": "BS10026640",
+                "start_time": "0525",
+                "spell": "ci qu nan",
+                "time_desc_json": "",
+                "station_id": "110100023102003",
+                "navi_poiname": "",
+                "end_time": "2245",
+                "navi_poiside": "",
+                "xy_coords": "116.581357;39.795118",
+                "poiid2_xy": "116.581357;39.795118",
+                "poiid2": "BV10013448"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "经海路",
+                "station_num": "4",
+                "poiid1": "BS10026642",
+                "start_time": "0528",
+                "spell": "jing hai lu",
+                "time_desc_json": "",
+                "station_id": "110100023102004",
+                "navi_poiname": "",
+                "end_time": "2248",
+                "navi_poiside": "",
+                "xy_coords": "116.562245;39.783587",
+                "poiid2_xy": "116.562245;39.783587",
+                "poiid2": "BV10013449"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "同济南路",
+                "station_num": "5",
+                "poiid1": "BS10016298",
+                "start_time": "0531",
+                "spell": "tong ji nan lu",
+                "time_desc_json": "",
+                "station_id": "110100023102005",
+                "navi_poiname": "",
+                "end_time": "2251",
+                "navi_poiside": "",
+                "xy_coords": "116.539835;39.7729",
+                "poiid2_xy": "116.539835;39.772900",
+                "poiid2": "BV10007921"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "荣昌东街",
+                "station_num": "6",
+                "poiid1": "BS10026643",
+                "start_time": "0534",
+                "spell": "rong chang dong jie",
+                "time_desc_json": "",
+                "station_id": "110100023102006",
+                "navi_poiname": "",
+                "end_time": "2254",
+                "navi_poiside": "",
+                "xy_coords": "116.521737;39.782799",
+                "poiid2_xy": "116.521737;39.782799",
+                "poiid2": "BV10013450"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "荣京东街",
+                "station_num": "7",
+                "poiid1": "BS10007500",
+                "start_time": "0536",
+                "spell": "rong jing dong jie",
+                "time_desc_json": "",
+                "station_id": "110100023102007",
+                "navi_poiname": "",
+                "end_time": "2256",
+                "navi_poiside": "",
+                "xy_coords": "116.51339;39.793132",
+                "poiid2_xy": "116.513390;39.793132",
+                "poiid2": "BV10003511"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "万源街",
+                "station_num": "8",
+                "poiid1": "BS10026645",
+                "start_time": "0538",
+                "spell": "wan yuan jie",
+                "time_desc_json": "",
+                "station_id": "110100023102008",
+                "navi_poiname": "",
+                "end_time": "2258",
+                "navi_poiside": "",
+                "xy_coords": "116.505446;39.802921",
+                "poiid2_xy": "116.505446;39.802921",
+                "poiid2": "BV10013451"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "亦庄文化园",
+                "station_num": "9",
+                "poiid1": "BS10026648",
+                "start_time": "0541",
+                "spell": "yi zhuang wen hua yuan",
+                "time_desc_json": "",
+                "station_id": "110100023102009",
+                "navi_poiname": "",
+                "end_time": "2301",
+                "navi_poiside": "",
+                "xy_coords": "116.490632;39.80689",
+                "poiid2_xy": "116.490632;39.806890",
+                "poiid2": "BV10013452"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "亦庄桥",
+                "station_num": "10",
+                "poiid1": "BS10026650",
+                "start_time": "0543",
+                "spell": "yi zhuang qiao",
+                "time_desc_json": "",
+                "station_id": "110100023102010",
+                "navi_poiname": "",
+                "end_time": "2303",
+                "navi_poiside": "",
+                "xy_coords": "116.480307;39.803011",
+                "poiid2_xy": "116.480307;39.803011",
+                "poiid2": "BV10013453"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110115",
+                "navi_poiid": "",
+                "name": "旧宫",
+                "station_num": "11",
+                "poiid1": "BS10000683",
+                "start_time": "0545",
+                "spell": "jiu gong",
+                "time_desc_json": "",
+                "station_id": "110100023102011",
+                "navi_poiname": "",
+                "end_time": "2305",
+                "navi_poiside": "",
+                "xy_coords": "116.460789;39.80691",
+                "poiid2_xy": "116.460789;39.806910",
+                "poiid2": "BV10000335"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "小红门",
+                "station_num": "12",
+                "poiid1": "BS10024098",
+                "start_time": "0549",
+                "spell": "xiao hong men",
+                "time_desc_json": "",
+                "station_id": "110100023102012",
+                "navi_poiname": "",
+                "end_time": "2309",
+                "navi_poiside": "",
+                "xy_coords": "116.459226;39.827951",
+                "poiid2_xy": "116.459226;39.827951",
+                "poiid2": "BV10012008"
+            },
+            {
+                "status": "1",
+                "trans_flag": "0",
+                "code": "110105",
+                "navi_poiid": "",
+                "name": "肖村",
+                "station_num": "13",
+                "poiid1": "BS10023059",
+                "start_time": "0551",
+                "spell": "xiao cun",
+                "time_desc_json": "",
+                "station_id": "110100023102013",
+                "navi_poiname": "",
+                "end_time": "2311",
+                "navi_poiside": "",
+                "xy_coords": "116.448364;39.834217",
+                "poiid2_xy": "116.448364;39.834217",
+                "poiid2": "BV10011446"
+            },
+            {
+                "status": "1",
+                "trans_flag": "1",
+                "code": "110106",
+                "navi_poiid": "",
+                "name": "宋家庄",
+                "station_num": "14",
+                "poiid1": "BS11128362",
+                "start_time": "",
+                "spell": "song jia zhuang",
+                "time_desc_json": "",
+                "station_id": "110100023102014",
+                "navi_poiname": "",
+                "end_time": "",
+                "navi_poiside": "",
+                "xy_coords": "116.428379;39.844991",
+                "poiid2_xy": "116.428368;39.845849",
+                "poiid2": "BV10000743"
+            }],
+            "interval": "0011",
+            "bounds": "116.428256;39.770683;116.601913;39.844991",
+            "air": "1",
+            "length": "22.80492",
+            "end_time": "2240",
+            "is_realtime": "0"
+        }],
+        "bus_list": [],
+        "general_flag": "0",
+        "bounds": "116.428368;39.772900;116.601926;39.845849",
+        "version": "2.0-3.0.0140.1504",
+        "busline_count": "2",
+        "magicbox_data":
+        {},
+        "interior_count": "0",
+        "poi_list": [
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.772900",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103011",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "25.904399",
+                "businfo_expect_dates": "",
+                "poiid": "BS10016297",
+                "poiid2": "BV10007921",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "同济南路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.539835",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.772900",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102005",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "205.774319",
+                "businfo_expect_dates": "",
+                "poiid": "BS10016298",
+                "poiid2": "BV10007921",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "同济南路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.539835",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.539835",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10007921",
+            "name": "同济南路(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023103|110100023102",
+                "display_x": "116.539835",
+                "display_y": "39.772900",
+                "businfo_ids": "BS10016297|BS10016298",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "25.904399|205.774319",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)",
+                "businfo_stationids": "110100023103011|110100023102005",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.539835|116.539835",
+                "ys": "39.772900|39.772900",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/24a8c50a082a56cc72dcde9ca8002024",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.772623+++39.773167+++39.773211+++39.772742",
+                "poiids": "BX10014981+++BX10014980+++BX10014979+++BX10014978",
+                "name": "parent_other_rel",
+                "pxs": "116.539213+++116.540201+++116.540415+++116.539338",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "同济南路地铁站A1西口+++同济南路地铁站B2东口+++同济南路地铁站B1东口+++同济南路地铁站A2西口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "A1+++B2+++B1+++A2",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "同济南路(地铁站)",
+            "cpdata": "",
+            "latitude": "39.772900",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.803011",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103006",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "14.036243",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026649",
+                "poiid2": "BV10013453",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "亦庄桥(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.480307",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.803011",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102010",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "194.100422",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026650",
+                "poiid2": "BV10013453",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "亦庄桥(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.480307",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.480307",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013453",
+            "name": "亦庄桥(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023103|110100023102",
+                "display_x": "116.480307",
+                "display_y": "39.803011",
+                "businfo_ids": "BS10026649|BS10026650",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "14.036243|194.100422",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)",
+                "businfo_stationids": "110100023103006|110100023102010",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.480307|116.480307",
+                "ys": "39.803011|39.803011",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/d8eb75ce1c4341f9cd1a1ac702bcf201",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.803228+++39.802712+++39.802859+++39.803014",
+                "poiids": "BX10014968+++BX10014967+++BX10014966+++BX10014965",
+                "name": "parent_other_rel",
+                "pxs": "116.481035+++116.479716+++116.479529+++116.480917",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "亦庄桥地铁站B1东口+++亦庄桥地铁站A2西口+++亦庄桥地铁站A1西口+++亦庄桥地铁站B2东口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "B1+++A2+++A1+++B2",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "亦庄桥(地铁站)",
+            "cpdata": "",
+            "latitude": "39.803011",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.812607",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103015",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "42.130433",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026543",
+                "poiid2": "BV10013399",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "亦庄火车站(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.601913",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.812607",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102015",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "222.130433",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026544",
+                "poiid2": "BV10013399",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "亦庄火车站(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.601913",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.601913",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013399",
+            "name": "亦庄火车站(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023103|110100023102",
+                "display_x": "116.601913",
+                "display_y": "39.812607",
+                "businfo_ids": "BS10026543|BS10026544",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "42.130433|222.130433",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)",
+                "businfo_stationids": "110100023103015|110100023102015",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.601913|116.601913",
+                "ys": "39.812607|39.812607",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.813357+++39.812053+++39.812338+++39.812813",
+                "poiids": "BX10026171+++BX10026170+++BX10026169+++BX10026168",
+                "name": "parent_other_rel",
+                "pxs": "116.602043+++116.601735+++116.600923+++116.602883",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "亦庄火车站地铁站B口+++亦庄火车站地铁站D西南口+++亦庄火车站地铁站A西北口+++亦庄火车站地铁站C口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "B+++D+++A+++C",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "亦庄火车站(地铁站)",
+            "cpdata": "",
+            "latitude": "39.812607",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023100;110100023282",
+                "businfo_station_status": "1;1",
+                "businfo_line_types": "2;2",
+                "y": "39.845849",
+                "businfo_line_alias": "5号线;10号线",
+                "businfo_stationids": "110100023100001;110100023282028",
+                "businfo_ui_colors": "A61D7F;019AC3",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "180.000000",
+                "businfo_expect_dates": ";",
+                "poiid": "BS10001526",
+                "poiid2": "BV10000743",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "宋家庄(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁5号线(宋家庄--天通苑北);地铁10号线内环(巴沟--巴沟)",
+                "x": "116.428368",
+                "businfo_realbus": "0;0",
+                "businfo_line_keys": "地铁5号线;地铁10号线内环"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023101;110100023283",
+                "businfo_station_status": "1;1",
+                "businfo_line_types": "2;2",
+                "y": "39.845849",
+                "businfo_line_alias": "5号线;10号线",
+                "businfo_stationids": "110100023101024;110100023283018",
+                "businfo_ui_colors": "A61D7F;019AC3",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "0.000000",
+                "businfo_expect_dates": ";",
+                "poiid": "BS11099246",
+                "poiid2": "BV10000743",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "宋家庄(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁5号线(天通苑北--宋家庄);地铁10号线外环(车道沟--车道沟)",
+                "x": "116.428368",
+                "businfo_realbus": "0;0",
+                "businfo_line_keys": "地铁5号线;地铁10号线外环"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.844991",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103002",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "270.000000",
+                "businfo_expect_dates": "",
+                "poiid": "BS11128361",
+                "poiid2": "BV10000743",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "宋家庄(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "C",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.428379",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.844991",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102014",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "90.000000",
+                "businfo_expect_dates": "",
+                "poiid": "BS11128362",
+                "poiid2": "BV10000743",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "宋家庄(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "D",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.428379",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.428368",
+            "address": "10号线;5号线;亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10000743",
+            "name": "宋家庄(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023101;110100023283|110100023103|110100023102|110100023100;110100023282",
+                "display_x": "116.428368",
+                "display_y": "39.845849",
+                "businfo_ids": "BS11099246|BS11128361|BS11128362|BS10001526",
+                "businfo_line_alias": "5号线;10号线|亦庄线|亦庄线|5号线;10号线",
+                "businfo_ui_colors": "A61D7F;019AC3|F0087D|F0087D|A61D7F;019AC3",
+                "businfo_alias": "",
+                "businfo_angles": "0.000000|270.000000|90.000000|180.000000",
+                "businfo_line_names": "地铁5号线(天通苑北--宋家庄);地铁10号线外环(车道沟--车道沟)|地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)|地铁5号线(宋家庄--天通苑北);地铁10号线内环(巴沟--巴沟)",
+                "businfo_stationids": "110100023101024;110100023283018|110100023103002|110100023102014|110100023100001;110100023282028",
+                "businfo_line_types": "2;2|2|2|2;2",
+                "businfo_road_ids": " | | | ",
+                "businfo_station_status": "1;1|1|1|1;1",
+                "businfo_meshs": " | | | ",
+                "xs": "116.428368|116.428379|116.428379|116.428368",
+                "ys": "39.845849|39.844991|39.844991|39.845849",
+                "businfo_line_keys": "地铁5号线;地铁10号线外环|地铁亦庄线|地铁亦庄线|地铁5号线;地铁10号线内环",
+                "businfo_expect_dates": ";| | |;",
+                "businfo_realbus": "0;0|0|0|0;0"
+            },
+            "adcode": "110106",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/caf4baad1af440cf6e74f866e6e8834d",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.843724+++39.845611+++39.846698+++39.846234+++39.846155+++39.843608+++39.846648+++39.844970+++39.845412+++39.844515",
+                "poiids": "BX10014972+++BX10020690+++BX10014977+++BX10014976+++BX10014975+++BX10014974+++BX10014969+++BX10026880+++BX10019262+++BX10014971",
+                "name": "parent_other_rel",
+                "pxs": "116.428645+++116.427590+++116.428664+++116.427127+++116.429643+++116.428077+++116.428096+++116.428046+++116.429593+++116.428959",
+                "childtype": "107+++107+++107+++107+++107+++107+++107+++107+++107+++107",
+                "poiname": "宋家庄地铁站F东南3口+++宋家庄地铁站H西南口+++宋家庄地铁站B东北1口+++宋家庄地铁站I西北2口+++宋家庄地铁站C东北2口+++宋家庄地铁站G西南1口+++宋家庄地铁站A西北1口+++宋家庄地铁站出入口+++宋家庄地铁站D东南1口+++宋家庄地铁站E东南2口",
+                "address": "亦庄线+++5号线+++10号线+++10号线+++10号线+++亦庄线+++10号线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "F+++H+++B+++I+++C+++G+++A+++出+++D+++E",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "宋家庄(地铁站)",
+            "cpdata": "",
+            "latitude": "39.845849",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.783587",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103012",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "27.164985",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026641",
+                "poiid2": "BV10013449",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "经海路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.562245",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.783587",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102004",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "207.027965",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026642",
+                "poiid2": "BV10013449",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "经海路(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.562245",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.562245",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013449",
+            "name": "经海路(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102|110100023103",
+                "display_x": "116.562245",
+                "display_y": "39.783587",
+                "businfo_ids": "BS10026642|BS10026641",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "207.027965|27.164985",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)|地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_stationids": "110100023102004|110100023103012",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.562245|116.562245",
+                "ys": "39.783587|39.783587",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/91673cad9ce8cf6c149cdf8239e9f0db",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.783930+++39.783322+++39.783379+++39.783929",
+                "poiids": "BX10015012+++BX10015011+++BX10015010+++BX10015009",
+                "name": "parent_other_rel",
+                "pxs": "116.562750+++116.561633+++116.561679+++116.562827",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "经海路地铁站B2东口+++经海路地铁站A1西口+++经海路地铁站A2西口+++经海路地铁站B1东口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "B2+++A1+++A2+++B1",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "经海路(地铁站)",
+            "cpdata": "",
+            "latitude": "39.783587",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.782799",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102006",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "128.314023",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026643",
+                "poiid2": "BV10013450",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "荣昌东街(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.521737",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.782799",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103010",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "309.315671",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026644",
+                "poiid2": "BV10013450",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "荣昌东街(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.521737",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.521737",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013450",
+            "name": "荣昌东街(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023103|110100023102",
+                "display_x": "116.521737",
+                "display_y": "39.782799",
+                "businfo_ids": "BS10026644|BS10026643",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "309.315671|128.314023",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)",
+                "businfo_stationids": "110100023103010|110100023102006",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.521737|116.521737",
+                "ys": "39.782799|39.782799",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/f6306e174a30b86a4a8f5c62489534cb",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.782348+++39.783260+++39.782405+++39.783284",
+                "poiids": "BX10015016+++BX10015015+++BX10015014+++BX10015013",
+                "name": "parent_other_rel",
+                "pxs": "116.522169+++116.521487+++116.522168+++116.521417",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "荣昌东街地铁站B1南口+++荣昌东街地铁站A2北口+++荣昌东街地铁站B2南口+++荣昌东街地铁站A1北口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "B1+++A2+++B2+++A1",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "荣昌东街(地铁站)",
+            "cpdata": "",
+            "latitude": "39.782799",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.793132",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102007",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "128.935465",
+                "businfo_expect_dates": "",
+                "poiid": "BS10007500",
+                "poiid2": "BV10003511",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "荣京东街(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.513390",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.793132",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103009",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "308.987464",
+                "businfo_expect_dates": "",
+                "poiid": "BS10007501",
+                "poiid2": "BV10003511",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "荣京东街(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.513390",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.513390",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10003511",
+            "name": "荣京东街(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102|110100023103",
+                "display_x": "116.513390",
+                "display_y": "39.793132",
+                "businfo_ids": "BS10007500|BS10007501",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "128.935465|308.987464",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)|地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_stationids": "110100023102007|110100023103009",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.513390|116.513390",
+                "ys": "39.793132|39.793132",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/42a31c7cf6c4ecbdb83877e6edd0add1",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.793611+++39.792678+++39.793633+++39.792750",
+                "poiids": "BX10014964+++BX10014963+++BX10014962+++BX10014961",
+                "name": "parent_other_rel",
+                "pxs": "116.513118+++116.513805+++116.513045+++116.513808",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "荣京东街地铁站A2北口+++荣京东街地铁站B1南口+++荣京东街地铁站A1北口+++荣京东街地铁站B2南口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "A2+++B1+++A1+++B2",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "荣京东街(地铁站)",
+            "cpdata": "",
+            "latitude": "39.793132",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.806910",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102011",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "110.409883",
+                "businfo_expect_dates": "",
+                "poiid": "BS10000683",
+                "poiid2": "BV10000335",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "旧宫(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.460789",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.806910",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103005",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "290.462272",
+                "businfo_expect_dates": "",
+                "poiid": "BS10000684",
+                "poiid2": "BV10000335",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "旧宫(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.460789",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.460789",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10000335",
+            "name": "旧宫(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023103|110100023102",
+                "display_x": "116.460789",
+                "display_y": "39.806910",
+                "businfo_ids": "BS10000684|BS10000683",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "290.462272|110.409883",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)",
+                "businfo_stationids": "110100023103005|110100023102011",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.460789|116.460789",
+                "ys": "39.806910|39.806910",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/f3fd8aca28ec0b2a5cd8d10269f4fbb4",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.807513+++39.806419+++39.806365+++39.807384",
+                "poiids": "BX10014990+++BX10014989+++BX10014988+++BX10014987",
+                "name": "parent_other_rel",
+                "pxs": "116.460624+++116.460851+++116.461062+++116.460486",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "旧宫地铁站A1北口+++旧宫地铁站B2南口+++旧宫地铁站B1南口+++旧宫地铁站A2北口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "A1+++B2+++B1+++A2",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "旧宫(地铁站)",
+            "cpdata": "",
+            "latitude": "39.806910",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.806890",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103007",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "24.634837",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026647",
+                "poiid2": "BV10013452",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "亦庄文化园(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.490632",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.806890",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102009",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "203.550648",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026648",
+                "poiid2": "BV10013452",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "亦庄文化园(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.490632",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.490632",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013452",
+            "name": "亦庄文化园(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102|110100023103",
+                "display_x": "116.490632",
+                "display_y": "39.806890",
+                "businfo_ids": "BS10026648|BS10026647",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "203.550648|24.634837",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)|地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_stationids": "110100023102009|110100023103007",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.490632|116.490632",
+                "ys": "39.806890|39.806890",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/4ebc6aadabe45074d94d7d92b50b0e29",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.807005+++39.807226+++39.806540+++39.806625",
+                "poiids": "BX10015008+++BX10015007+++BX10015006+++BX10015005",
+                "name": "parent_other_rel",
+                "pxs": "116.491242+++116.491299+++116.490193+++116.489925",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "亦庄文化园地铁站B2东口+++亦庄文化园地铁站B1东口+++亦庄文化园地铁站A2西口+++亦庄文化园地铁站A1西口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "B2+++B1+++A2+++A1",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "亦庄文化园(地铁站)",
+            "cpdata": "",
+            "latitude": "39.806890",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150200",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "116.6,39.8143,116.604,39.8112",
+            "longitude": "116.601926",
+            "address": "台湖",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B000A875AD",
+            "name": "亦庄站(建设中)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [
+            {
+                "latitude": "39.812416",
+                "longitude": "116.601851"
+            }],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://aos-cdn-image.amap.com/sns/ugccomment/da4be7eb-90f0-423f-9929-1771b9059bfc.jpg",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "value": "<font color='#666666'>靠近亦庄火车站(地铁站)</font>",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "value": "116.600491,39.814296_116.604273,39.81175_116.603753,39.811218_116.602025,39.81238_116.601526,39.811873_116.600716,39.812438_116.601119,39.812825_116.599853,39.813736_116.600491,39.814296",
+                "name": "aoi"
+            }],
+            "newtype": "150200",
+            "disp_name": "亦庄站(建设中)",
+            "cpdata": "",
+            "latitude": "39.812728",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.802921",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102008",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "130.402603",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026645",
+                "poiid2": "BV10013451",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "万源街(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.505446",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.802921",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103008",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "309.673645",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026646",
+                "poiid2": "BV10013451",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "万源街(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.505446",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.505446",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013451",
+            "name": "万源街(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023103|110100023102",
+                "display_x": "116.505446",
+                "display_y": "39.802921",
+                "businfo_ids": "BS10026646|BS10026645",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "309.673645|130.402603",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)",
+                "businfo_stationids": "110100023103008|110100023102008",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.505446|116.505446",
+                "ys": "39.802921|39.802921",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/d39633f060a45ed529f8b61b84b4bf5c",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.802860+++39.802467+++39.803413+++39.803408+++39.802545",
+                "poiids": "BX10014986+++BX10014985+++BX10014984+++BX10014983+++BX10014982",
+                "name": "parent_other_rel",
+                "pxs": "116.505292+++116.505887+++116.505089+++116.505209+++116.505895",
+                "childtype": "107+++107+++107+++107+++107",
+                "poiname": "万源街地铁站D西南口+++万源街地铁站B1南口+++万源街地铁站A1北口+++万源街地铁站A2北口+++万源街地铁站B2南口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "D+++B1+++A1+++A2+++B2",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "万源街(地铁站)",
+            "cpdata": "",
+            "latitude": "39.802921",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.795118",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103013",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "38.901384",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026639",
+                "poiid2": "BV10013448",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "次渠南(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.581357",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.795118",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102003",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "218.439804",
+                "businfo_expect_dates": "",
+                "poiid": "BS10026640",
+                "poiid2": "BV10013448",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "次渠南(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.581357",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.581357",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10013448",
+            "name": "次渠南(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102|110100023103",
+                "display_x": "116.581357",
+                "display_y": "39.795118",
+                "businfo_ids": "BS10026640|BS10026639",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "218.439804|38.901384",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)|地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_stationids": "110100023102003|110100023103013",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.581357|116.581357",
+                "ys": "39.795118|39.795118",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/24d27e29349df00eeb1c3a0461a30510",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.794458+++39.795280+++39.795660+++39.794875",
+                "poiids": "BX10014997+++BX10014996+++BX10014995+++BX10014994",
+                "name": "parent_other_rel",
+                "pxs": "116.581150+++116.582114+++116.581138+++116.580510",
+                "childtype": "107+++107+++107+++107",
+                "poiname": "次渠南地铁站D西南口+++次渠南地铁站C东南口+++次渠南地铁站B东北口+++次渠南地铁站A西北口",
+                "address": "亦庄线+++亦庄线+++亦庄线+++亦庄线",
+                "shortname": "D+++C+++B+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "次渠南(地铁站)",
+            "cpdata": "",
+            "latitude": "39.795118",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.834217",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102013",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "179.550042",
+                "businfo_expect_dates": "",
+                "poiid": "BS10023059",
+                "poiid2": "BV10011446",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "肖村(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.448364",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.834222",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103003",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "359.852521",
+                "businfo_expect_dates": "",
+                "poiid": "BS10023060",
+                "poiid2": "BV10011446",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "肖村(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.448377",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.448364",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10011446",
+            "name": "肖村(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102|110100023103",
+                "display_x": "116.448364",
+                "display_y": "39.834217",
+                "businfo_ids": "BS10023059|BS10023060",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "179.550042|359.852521",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)|地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_stationids": "110100023102013|110100023103003",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.448364|116.448377",
+                "ys": "39.834217|39.834222",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/f9355e2ece53c117e968cc0653496f2f",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.834035+++39.834404+++39.834545",
+                "poiids": "BX10014993+++BX10014992+++BX10014991",
+                "name": "parent_other_rel",
+                "pxs": "116.447857+++116.449280+++116.447408",
+                "childtype": "107+++107+++107",
+                "poiname": "肖村地铁站D西南口+++肖村地铁站B东北口+++肖村地铁站A西北口",
+                "address": "亦庄线+++亦庄线+++亦庄线",
+                "shortname": "D+++B+++A",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "肖村(地铁站)",
+            "cpdata": "",
+            "latitude": "39.834217",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.827951",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102012",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "105.902778",
+                "businfo_expect_dates": "",
+                "poiid": "BS10024098",
+                "poiid2": "BV10012008",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "小红门(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.459226",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.827951",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103004",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "286.782644",
+                "businfo_expect_dates": "",
+                "poiid": "BS10024099",
+                "poiid2": "BV10012008",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "小红门(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.459226",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.459226",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10012008",
+            "name": "小红门(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102|110100023103",
+                "display_x": "116.459226",
+                "display_y": "39.827951",
+                "businfo_ids": "BS10024098|BS10024099",
+                "businfo_line_alias": "亦庄线|亦庄线",
+                "businfo_ui_colors": "F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "105.902778|286.782644",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)|地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_stationids": "110100023102012|110100023103004",
+                "businfo_line_types": "2|2",
+                "businfo_road_ids": " | ",
+                "businfo_station_status": "1|1",
+                "businfo_meshs": " | ",
+                "xs": "116.459226|116.459226",
+                "ys": "39.827951|39.827951",
+                "businfo_line_keys": "地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": " | ",
+                "businfo_realbus": "0|0"
+            },
+            "adcode": "110105",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/882b4702a15fcf1d6313d553b470c4d2",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "value": "查看出入口、停车场",
+                "name": "parent_info"
+            },
+            {
+                "pys": "39.828751+++39.828435+++39.827185",
+                "poiids": "BX10015000+++BX10014999+++BX10014998",
+                "name": "parent_other_rel",
+                "pxs": "116.459255+++116.458730+++116.459271",
+                "childtype": "107+++107+++107",
+                "poiname": "小红门地铁站B东北口+++小红门地铁站A西北口+++小红门地铁站D西南口",
+                "address": "亦庄线+++亦庄线+++亦庄线",
+                "shortname": "B+++A+++D",
+                "type": "array",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "小红门(地铁站)",
+            "cpdata": "",
+            "latitude": "39.827951",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "name": "次渠地铁站A西北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002310200208;11010002310301405",
+                "bus_alias": "A",
+                "businfo_station_name": "次渠",
+                "y": "39.804316",
+                "x": "116.591095",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266",
+                "poiid": "BT10015001",
+                "poiid2": "BX10015002"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.591095",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015002",
+            "name": "次渠地铁站A西北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_landmark_poiids": "B0FFH1U74Q;B0FFH1Y46V",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "1",
+                "eys": "39.804316",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_exitids": "11010002310200208;11010002310301405",
+                "poiid1s": "BT10015001",
+                "exs": "116.591095",
+                "businfo_station_name": "次渠",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "次渠地铁站A西北口",
+            "cpdata": "",
+            "latitude": "39.804316",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "name": "次渠地铁站C东南口",
+                "businfo_angles": "",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "3",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002310200205;11010002310301406",
+                "bus_alias": "A",
+                "businfo_station_name": "次渠",
+                "y": "39.802734",
+                "x": "116.591584",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266",
+                "poiid": "BT10015000",
+                "poiid2": "BX10015001"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.591584",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015001",
+            "name": "次渠地铁站C东南口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_landmark_poiids": "B0FFHLMNGJ;B0FFFW72R1;BV11196555;B0FFLEMAH7;B0FFH98OXU",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "3",
+                "eys": "39.802734",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_exitids": "11010002310200205;11010002310301406",
+                "poiid1s": "BT10015000",
+                "exs": "116.591584",
+                "businfo_station_name": "次渠",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "次渠地铁站C东南口",
+            "cpdata": "",
+            "latitude": "39.802734",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "name": "次渠地铁站B东北口",
+                "businfo_angles": "",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002310200206;11010002310301408",
+                "bus_alias": "A",
+                "businfo_station_name": "次渠",
+                "y": "39.803495",
+                "x": "116.592271",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266",
+                "poiid": "BT10015002",
+                "poiid2": "BX10015003"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.592271",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015003",
+            "name": "次渠地铁站B东北口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_landmark_poiids": "BV10402621;BV10008565;B000A7QN7X;BV11139017;BV11199594",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "1",
+                "eys": "39.803495",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_exitids": "11010002310200206;11010002310301408",
+                "poiid1s": "BT10015002",
+                "exs": "116.592271",
+                "businfo_station_name": "次渠",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "次渠地铁站B东北口",
+            "cpdata": "",
+            "latitude": "39.803495",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150501",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "name": "次渠地铁站D西南口",
+                "businfo_angles": "",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "1",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_landmark_poiids": "",
+                "new_type": "150501",
+                "businfo_exitids": "11010002310200207;11010002310301407",
+                "bus_alias": "A",
+                "businfo_station_name": "次渠",
+                "y": "39.803339",
+                "x": "116.590398",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266",
+                "poiid": "BT10015003",
+                "poiid2": "BX10015004"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.590398",
+            "address": "亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BX10015004",
+            "name": "次渠地铁站D西南口",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "110100023102;110100023103",
+                "businfo_landmark_poiids": "B000A83XL4;B0FFHDWZYM;B000A8XQVH;B0FFJ5VOR1;B000A7P8VC;B0FFHDWZYO",
+                "businfo_line_alias": "亦庄线;亦庄线",
+                "businfo_exit_status": "1",
+                "eys": "39.803339",
+                "businfo_station_name_en": "CIQU",
+                "businfo_stationids": "110100023102002;110100023103014",
+                "businfo_ui_colors": "F0087D;F0087D",
+                "businfo_exitids": "11010002310200207;11010002310301407",
+                "poiid1s": "BT10015003",
+                "exs": "116.590398",
+                "businfo_station_name": "次渠",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄);地铁亦庄线(宋家庄--亦庄火车站)",
+                "businfo_line_keys": "地铁亦庄线;地铁亦庄线",
+                "businfo_station_poiid2": "BV10011266"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150501",
+            "disp_name": "次渠地铁站D西南口",
+            "cpdata": "",
+            "latitude": "39.803339",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "150500",
+            "areacode": "010",
+            "cityname": "北京市",
+            "child_stations": [
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023103",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.803500",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023103014",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "39.528882",
+                "businfo_expect_dates": "",
+                "poiid": "BS10022706",
+                "poiid2": "BV10011266",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "次渠(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "A",
+                "businfo_line_names": "地铁亦庄线(宋家庄--亦庄火车站)",
+                "x": "116.591502",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "110100023102",
+                "businfo_station_status": "1",
+                "businfo_line_types": "2",
+                "y": "39.803500",
+                "businfo_line_alias": "亦庄线",
+                "businfo_stationids": "110100023102002",
+                "businfo_ui_colors": "F0087D",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "219.556039",
+                "businfo_expect_dates": "",
+                "poiid": "BS10022707",
+                "poiid2": "BV10011266",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "次渠(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "B",
+                "businfo_line_names": "地铁亦庄线(亦庄火车站--宋家庄)",
+                "x": "116.591502",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "地铁亦庄线"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "900000099934",
+                "businfo_station_status": "3",
+                "businfo_line_types": "2",
+                "y": "39.803576",
+                "businfo_line_alias": "(在建)17号线南段",
+                "businfo_stationids": "900000099934002",
+                "businfo_ui_colors": "AAAAAA",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "155.980286",
+                "businfo_expect_dates": "预计2021年开通",
+                "poiid": "BS12268897",
+                "poiid2": "BV10011266",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "次渠(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "C",
+                "businfo_line_names": "(在建)地铁17号线南段(亦庄站前区南--潘家园西)",
+                "x": "116.591441",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "(在建)地铁17号线南段"
+            },
+            {
+                "navi_poiname": "",
+                "businfo_lineids": "900000099933",
+                "businfo_station_status": "3",
+                "businfo_line_types": "2",
+                "y": "39.803576",
+                "businfo_line_alias": "(在建)17号线南段",
+                "businfo_stationids": "900000099933007",
+                "businfo_ui_colors": "AAAAAA",
+                "new_type": "150500",
+                "navi_poiside": "",
+                "businfo_angles": "332.962375",
+                "businfo_expect_dates": "预计2021年开通",
+                "poiid": "BS12268898",
+                "poiid2": "BV10011266",
+                "businfo_alias": "",
+                "navi_poiid": "",
+                "name": "次渠(地铁站)",
+                "businfo_mesh": "",
+                "businfo_road_id": "",
+                "bus_alias": "D",
+                "businfo_line_names": "(在建)地铁17号线南段(潘家园西--亦庄站前区南)",
+                "x": "116.591441",
+                "businfo_realbus": "0",
+                "businfo_line_keys": "(在建)地铁17号线南段"
+            }],
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.591502",
+            "address": "(在建)17号线南段;亦庄线",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "BV10011266",
+            "name": "次渠(地铁站)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "stations":
+            {
+                "businfo_lineids": "900000099933|900000099934|110100023103|110100023102",
+                "display_x": "116.591502",
+                "display_y": "39.803500",
+                "businfo_ids": "BS12268898|BS12268897|BS10022706|BS10022707",
+                "businfo_line_alias": "(在建)17号线南段|(在建)17号线南段|亦庄线|亦庄线",
+                "businfo_ui_colors": "AAAAAA|AAAAAA|F0087D|F0087D",
+                "businfo_alias": "",
+                "businfo_angles": "332.962375|155.980286|39.528882|219.556039",
+                "businfo_line_names": "(在建)地铁17号线南段(潘家园西--亦庄站前区南)|(在建)地铁17号线南段(亦庄站前区南--潘家园西)|地铁亦庄线(宋家庄--亦庄火车站)|地铁亦庄线(亦庄火车站--宋家庄)",
+                "businfo_stationids": "900000099933007|900000099934002|110100023103014|110100023102002",
+                "businfo_line_types": "2|2|2|2",
+                "businfo_road_ids": " | | | ",
+                "businfo_station_status": "3|3|1|1",
+                "businfo_meshs": " | | | ",
+                "xs": "116.591441|116.591441|116.591502|116.591502",
+                "ys": "39.803576|39.803576|39.803500|39.803500",
+                "businfo_line_keys": "(在建)地铁17号线南段|(在建)地铁17号线南段|地铁亦庄线|地铁亦庄线",
+                "businfo_expect_dates": "预计2021年开通|预计2021年开通| | ",
+                "businfo_realbus": "0|0|0|0"
+            },
+            "adcode": "110112",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "value": "http://store.is.autonavi.com/showpic/1f136dac75e85827f8e8e8483cb1d5ef",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "150500",
+            "disp_name": "次渠(地铁站)",
+            "cpdata": "",
+            "latitude": "39.803500",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "3.5",
+            "tel": "",
+            "typecode": "061102",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.453094",
+            "address": "旧宫地铁亦庄线旧宫",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFMEWD3Z",
+            "name": "百丽(万科旧宫店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110115",
+            "domain_list": [
+            {
+                "type": "html",
+                "id": "1015",
+                "name": "poiclosed"
+            },
+            {
+                "type": "img",
+                "id": "1003",
+                "name": "icon"
+            },
+            {
+                "type": "html",
+                "id": "1011",
+                "name": "traffic"
+            },
+            {
+                "type": "text",
+                "id": "1014",
+                "name": "roadaoi"
+            },
+            {
+                "type": "button",
+                "id": "1012",
+                "name": "ext_btn"
+            },
+            {
+                "type": "webimg",
+                "id": "1009",
+                "name": "pic_info"
+            },
+            {
+                "type": "img",
+                "id": "1008",
+                "name": "overbooked"
+            },
+            {
+                "type": "img",
+                "id": "1007",
+                "name": "moreservice"
+            },
+            {
+                "type": "html",
+                "id": "1006",
+                "name": "tag"
+            },
+            {
+                "type": "text",
+                "id": "1005",
+                "name": "parent_info"
+            },
+            {
+                "type": "array",
+                "name": "parent_other_rel",
+                "id": "1004"
+            },
+            {
+                "type": "text",
+                "id": "1010",
+                "name": "business_area"
+            },
+            {
+                "type": "html",
+                "id": "1002",
+                "name": "deepinfo"
+            },
+            {
+                "type": "html",
+                "id": "1001",
+                "name": "price"
+            },
+            {
+                "type": "text",
+                "id": "1013",
+                "name": "aoi"
+            }],
+            "newtype": "061102",
+            "disp_name": "百丽(万科旧宫店)",
+            "cpdata": "",
+            "latitude": "39.812386",
+            "discount_flag": "0"
+        }]
+    }
+}

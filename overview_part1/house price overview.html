@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8' />
+    <title>Part 1, district overview</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css" rel="stylesheet" />
+
+    <script charset="utf-8" src="https://d3js.org/d3.v4.min.js"></script>
+    <script charset="utf-8" src="https://cdnjs.cloudflare.com/ajax/libs/dimple/2.3.0/dimple.latest.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .fukuang {
+            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            position: absolute;
+            width: 25%;
+            top: 0;
+            left: 0;
+            padding: 10px;
+            opacity: 0.7;
+        }
+
+        .fukuang .fukuang-inner {
+            background-color: #fff;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
+            border-radius: 3px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        .fukuang table {
+            border: none;
+            width: 100%;
+        }
+
+        .fukuang h2 {
+            line-height: 24px;
+            display: block;
+            margin: 0 0 10px;
+        }
+
+        .fukuang label {
+            font: 16px/18px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            vertical-align: bottom;
+            margin: 0;
+            padding: 0;
+        }
+
+        .fukuang input {
+            display: inline;
+            vertical-align: middle;
+            margin: 5px;
+            padding: 0;
+        }
+
+        .fukuang p.credit {
+            margin: 5px 0 0 0;
+            padding: 0;
+        }
+
+        .legend .bar {
+            margin-top: 10px;
+            height: 10px;
+            width: 100%;
+            background: linear-gradient(to right, rgb(0, 255, 0), rgb(255, 255, 0), rgb(255, 0, 0))
+        }
+
+        #barChart {
+            width: 100%;
+            height: 500px;
+            position: absolute;
+            top: 100%;
+        }
+
+        #handleBarChart {
+            position: relative;
+            width: 200px;
+            float: right;
+            top: 100px;
+            right: 410px;
+        }
+
+        #lineChart {
+            width: 100%;
+            height: 500px;
+            position: absolute;
+            top: 180%;
+            padding-left: 30px;
+        }
+
+        #slider {
+            width: 200px;
+        }
+
+        hr.divider1 {border: 0.5px solid gray;}
+    </style>
+</head>
+
+<body>
+    <div id='map'></div>
+
+    <div class='fukuang top'>
+        <div class='fukuang-inner'>
+            <h2>Monthly average of house prices in Beijing, 2012-2020</h2>
+            <h4>Description:<br></h4>
+            <p>In the first stage, we take a look at the change of average house prices for all districts and counties in Beijing, from 2012 to 2020. This explores the direction of travel at a monthly level between cities in China. You can choose to view migration towards or away from a city as well as a colourscheme which will help you uncover different patterns in the data. Click on a city to see its connections, click on a blank space on the map to deselect your city. If no connections appear try changing directions of travel. Alternatively, it may be possible that no data is available.
+            </p>
+            <hr class="divider1">
+            <table id="infoTable">
+                <tr>
+                    <td>
+                        <input id='slider' type='range' min='0' max='107' step='1' value='0' list='tickmarks' />
+                    </td>
+                    <td>
+                        <label id='year'>2012-01</label>
+                    </td>
+                </tr>
+            </table>
+            <div class="legend">
+                <h4>Legend (Average price, in ￥RMB)</h4>
+                <div class="bar"></div>
+            </div>
+            <hr class="divider1">
+            <h4>Source:<br></h4>
+            <p>Data collected from <a href="https://www.anjuke.com/fangjia/beijing2021/">Anjuke</a> for Jan, 2012 to Dec, 2020</p>
+        </div>
+    </div>
+
+    <script>
+        let showDates = [
+            '2012-01', '2012-02', '2012-03', '2012-04',
+            '2012-05', '2012-06', '2012-07', '2012-08',
+            '2012-09', '2012-10', '2012-11', '2012-12',
+            '2013-01', '2013-02', '2013-03', '2013-04',
+            '2013-05', '2013-06', '2013-07', '2013-08',
+            '2013-09', '2013-10', '2013-11', '2013-12',
+            '2014-01', '2014-02', '2014-03', '2014-04',
+            '2014-05', '2014-06', '2014-07', '2014-08',
+            '2014-09', '2014-10', '2014-11', '2014-12',
+            '2015-01', '2015-02', '2015-03', '2015-04',
+            '2015-05', '2015-06', '2015-07', '2015-08',
+            '2015-09', '2015-10', '2015-11', '2015-12',
+            '2016-01', '2016-02', '2016-03', '2016-04',
+            '2016-05', '2016-06', '2016-07', '2016-08',
+            '2016-09', '2016-10', '2016-11', '2016-12',
+            '2017-01', '2017-02', '2017-03', '2017-04',
+            '2017-05', '2017-06', '2017-07', '2017-08',
+            '2017-09', '2017-10', '2017-11', '2017-12',
+            '2018-01', '2018-02', '2018-03', '2018-04',
+            '2018-05', '2018-06', '2018-07', '2018-08',
+            '2018-09', '2018-10', '2018-11', '2018-12',
+            '2019-01', '2019-02', '2019-03', '2019-04',
+            '2019-05', '2019-06', '2019-07', '2019-08',
+            '2019-09', '2019-10', '2019-11', '2019-12',
+            '2020-01', '2020-02', '2020-03', '2020-04',
+            '2020-05', '2020-06', '2020-07', '2020-08',
+            '2020-09', '2020-10', '2020-11', '2020-12'
+        ]
+        mapboxgl.accessToken = 'pk.eyJ1Ijoidml2aWVuOTc5NyIsImEiOiJja29rMHo2NWUwYmRkMnZvN2l5OGNxeGQ4In0.wNHgZkgGKHlQSh0dg8SBkQ';  //Put your mapbox access token here
+
+        let map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/dark-v9',
+            center: [116, 40],
+            zoom: 8,
+            pitch: 0
+        });
+
+        let year = '2012-01',field = 'Field3';
+
+        map.on('load', function () {
+            // Add standard navigation control
+            map.addControl(new mapboxgl.NavigationControl());
+
+            addMyLayer('Field3')
+
+            document.getElementById('slider').addEventListener('input', (e) => {
+                let val = parseInt(e.target.value);
+                year = showDates[val]
+                document.getElementById('year').textContent = year;  // Set the label to the correct year
+
+                map.removeLayer('layerId')
+                map.removeSource('layerId')
+                map.removeLayer('labels')
+                map.removeSource('labels')
+                field = `Field` + (3 + val)
+                addMyLayer(field)
+            });
+
+            function addMyLayer(field) {
+                map.addLayer({
+                    id: 'layerId',
+                    source: {
+                        id: 'sourceId',
+                        type: 'vector',
+                        // url: 'mapbox://vivien9797.ckolb22cq08yh28ph1ffqgzat-7bnqu'
+                        url: 'mapbox://vivien9797.dpsl0kdi'
+                    },
+                    // 'source-layer': 'beijing',
+                    'source-layer': 'out1-5vu8oj',
+                    'type': 'fill',
+                    // 'filter': ['==', 'isState', true],
+                    'paint': {
+
+                        'fill-color': [
+                            'interpolate',
+                            ['linear'],
+                            ['get', field],
+                            5000, '#06ff00', 9000, '#33ff00', 12000, '#87ff00', 16000, '#beff00', 20000, '#eaff00', 30000, '#ffe700', 60000, '#ffa500', 80000, '#ff6800', 100000, '#ff1100'
+                            // 0,
+                            // '#fbb03b',
+                            // // '#f3b344',
+                            // 2527,
+                            // // '#7F3121'
+                            // '#223b53',
+                            // 8527,
+                            // '#e55e5e',
+                            // 15175,
+                            // '#3bb2d0',
+                            // 27897,
+                            // 'yellow',
+                            // 60340,
+                            // 'red'
+                        ]
+
+                        // 'fill-opacity': [
+                        //     'case',
+                        //     ['boolean', ['feature-state', 'hover'], false],
+                        //     1,
+                        //     0.75
+                        // ]
+                    }
+                });
+
+                map.addLayer({
+                    'id': 'labels',
+                    'type': 'symbol',
+                    source: {
+                        id: 'labels',
+                        type: 'vector',
+                        // url: 'mapbox://vivien9797.ckolb22cq08yh28ph1ffqgzat-7bnqu',
+                        url: 'mapbox://vivien9797.dpsl0kdi'
+                    },
+                    // 'source-layer': 'beijing', // name of tilesets
+                    'source-layer': 'out1-5vu8oj',
+                    'layout': {
+                        'text-field': '{Field2}',
+                        'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+                        'text-size': 14,
+                    },
+                    'paint': {
+                        'text-color': 'rgba(0,0,0,0.85)',
+                        'text-halo-color': '#fff',
+                        'text-halo-width': 1
+                    }
+                });
+            }
+
+            var popup = new mapboxgl.Popup({
+                closeButton: false,
+                closeOnClick: false
+            });
+            map.on('click', function (e) {
+                var features = map.queryRenderedFeatures(e.point);
+                let feature = features.find(f => f.layer.id === 'layerId')
+                if (!feature) return;
+                const { Field2 } = feature.properties;
+                popup.remove()
+                popup.setLngLat(e.lngLat).setHTML(`
+                        <div>
+                            <b>Region:</b>&nbsp;${Field2}</br>
+                            <b>Date:</b>&nbsp;${year}</br>
+                            <b>Average Price:</b>&nbsp;￥${feature.properties[field]} 
+                        </div>`
+                ).addTo(map);
+            });
+        });
+
+    </script>
+
+</body>
+
+</html>

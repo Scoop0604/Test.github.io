@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>house price and school</title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="./jquery.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js"></script>
+    <script
+      type="text/javascript"
+      src="https://lib.baomitu.com/echarts/4.9.0-rc.1/echarts.js"
+    ></script>
+    <script type="text/javascript" src="./keySchool.js"></script>
+    <script type="text/javascript" src="./noKeySchool.js"></script>
+    <style>
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+
+      #map {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+      }
+
+      .wrapper {
+        position: absolute;
+        padding: 10px;
+        border-radius: 3px;
+        background: #e6e6e6;
+        top: 10px;
+        width: 250px;
+        left: 20px;
+        opacity: 0.7;
+      }
+
+      .wrapper .legend .legend-item {
+        display: flex;
+        align-items: center;
+        font-size: 10px;
+        margin-top: 5px;
+      }
+
+      .wrapper .legend .legend-item .circle {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-right: 10px;
+      }
+
+
+      .legend1 {
+        background: #7CFC00;
+      }
+      .legend2 {
+        background: #387d22;
+      }
+      .legend3 {
+        background: #666922;
+      }
+      .legend4 {
+        background: #FFFF00;
+      }
+      .legend5 {
+        background: #fcd44a;
+      }
+      .legend6 {
+        background: #f38437;
+      }
+      .legend7 {
+        background: #ee562c;
+      }
+      .legend8 {
+        background: #FF0000;
+      }
+      .legend9 {
+        background: #c54233;
+      }
+      .legend10 {
+        background: #7a0202;
+      }
+      .view {
+        margin-top: 4px;
+        border-radius: 2px;
+        padding: 2px 0 2px 6px;
+        font-size: 10px;
+        background: #fff;
+      }
+
+      .view1:hover,
+      .view2:hover,
+      .view3:hover,
+      .view4:hover,
+      .view5:hover,
+      .view6:hover {
+        cursor: pointer;
+      }
+
+      .legend1 {
+        background: #7CFC00;
+      }
+      .legend2 {
+        background: #387d22;
+      }
+      .legend3 {
+        background: #666922;
+      }
+      .legend4 {
+        background: #FFFF00;
+      }
+      .legend5 {
+        background: #fcd44a;
+      }
+      .legend6 {
+        background: #f38437;
+      }
+      .legend7 {
+        background: #ee562c;
+      }
+      .legend8 {
+        background: #FF0000;
+      }
+      .legend9 {
+        background: #c54233;
+      }
+      .legend10 {
+        background: #7a0202;
+      }
+        
+      h2 {
+          font-size: 16px;
+          line-height: 20px;
+          margin-bottom: 8px;
+        }
+      p {
+        font-size: 8px;
+      }
+      a {
+        text-decoration: none;
+        color: #2dc4b2;
+      }
+      .chart {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+        width: 300px;
+        height: 300px;
+        opacity: 0.7;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="map"></div>
+    <div class="wrapper">
+      <h2>Beijing primary school Map</h2>
+      <p>
+        This map shows the average house price in Beijing within a 3-kilometer
+        radius of a primary school.We use the big circle to describe the elite
+        schools and the small circle to describe the general schools.In
+        addition, we can select different areas of Beijing through the button to
+        observe the situation.
+      </p>
+      <div class="legend">
+        <div>Price Range (CNY)</div>
+        <p>
+          The data are avaerage house prices per square meter from 2014 to 2020
+        </p>
+        <div class="legend-item">
+          <span class="circle legend1"></span>
+          <span>0-20000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend2"></span>
+          <span>20000-30000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend3"></span>
+          <span>30000-40000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend4"></span>
+          <span>40000-50000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend5"></span>
+          <span>50000-60000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend6"></span>
+          <span>60000-70000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend7"></span>
+          <span>70000-80000</span>
+        </div>          
+        <div class="legend-item">
+          <span class="circle legend8"></span>
+          <span>80000-90000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend9"></span>
+          <span>90000-100000</span>
+        </div>
+        <div class="legend-item">
+          <span class="circle legend10"></span>
+          <span>>100000</span>
+        </div>  
+      </div>
+
+      <div>Fly to</div>
+      <div class="viewer">
+        <div class="view view1">City center</div>
+        <div class="view view2">Southwest</div>
+        <div class="view view3">Northeast</div>
+        <div class="view view4">Northwest</div>
+        <div class="view view5">Southeast</div>
+        <div class="view view6">Beijing</div>
+      </div>
+      <div style="margin: 4px 0">
+        Data:
+        <a
+          href="https://github.com/Scoop0604/CASA0003/blob/main/school%20data.csv"
+          target="_blank"
+          >Download</a
+        >
+      </div>
+    </div>
+    <div id="chart-view" class="chart"></div>
+    <script>
+      const App = {
+        init: function () {
+          this.initMap();
+          this.addEvents();
+          this.addChart();
+        },
+        initMap: function () {
+          mapboxgl.accessToken =
+            "pk.eyJ1IjoidWNmbmhlbiIsImEiOiJja2x1Njg1cjMwMWVpMm9xbHM1ZW00MG9sIn0.W-ZPMO8all-8rO3ahmwWMQ";
+          this.map = new mapboxgl.Map({
+            container: "map",
+            style: "mapbox://styles/mapbox/dark-v10",
+            center: [116.405419, 39.916042],
+            zoom: 9,
+            pitch: 0,
+          });
+          this.map.on("load", () => {
+            this.map.loadImage(
+              "https://maponline0.bdimg.com/sty/map_icons2x/MapRes/gugong_zijinchengjiaolou.png",
+              (error, image) => {
+                if (error) throw error;
+                this.map.addImage("keySchoolImg", image, {
+                  sdf: true,
+                });
+                this.map.addSource("keySchoolPoint", {
+                  type: "geojson",
+                  data: keySchool,
+                });
+
+                this.map.addSource("noKeySchoolPoint", {
+                  type: "geojson",
+                  data: noKeySchool,
+                });
+
+                this.map.addLayer({
+                  id: "keySchoolPoint",
+                  source: "keySchoolPoint",
+                  type: "symbol",
+                  layout: {
+                    "icon-image": "keySchoolImg",
+                    "icon-size": 0.3,
+                  },
+                  paint: {
+                    "icon-color": {
+                      property: "price",
+                      stops: [
+                        [0, "#7CFC00"],
+                        [20000, "#387d22"],
+                        [30000, "#666922"],
+                        [40000, "#FFFF00"],
+                        [50000, "#fcd44a"],
+                        [60000, "#f38437"],
+                        [70000, "#ee562c"],
+                        [80000, "#FF0000"],
+                        [90000, "#c54233"],
+                        [100000, "#7a0202"],
+                      ],
+                    },
+                  },
+                });
+
+                this.map.addLayer({
+                  id: "noKeySchoolPoint",
+                  source: "noKeySchoolPoint",
+                  type: "circle",
+                  paint: {
+                    "circle-radius": 5,
+                    "circle-color": {
+                      property: "price",
+                      stops: [
+                        [0, "#7CFC00"],
+                        [20000, "#387d22"],
+                        [30000, "#666922"],
+                        [40000, "#FFFF00"],
+                        [50000, "#fcd44a"],
+                        [60000, "#f38437"],
+                        [70000, "#ee562c"],
+                        [80000, "#FF0000"],
+                        [90000, "#c54233"],
+                        [100000, "#7a0202"],
+                      ],
+                    },
+                  },
+                });
+
+                this.map.on("click", "keySchoolPoint", (e) => {
+                  this.renderTooltip(e);
+                });
+
+                this.map.on("click", "noKeySchoolPoint", (e) => {
+                  this.renderTooltip(e);
+                });
+              }
+            );
+          });
+        },
+
+        renderTooltip: function (e) {
+          const htmlContent = `
+            <div style="font-size:14px; padding: 0 5px">
+              <div>Name: ${e.features[0].properties.name}</div>
+              <div>Price: ${parseInt(e.features[0].properties.price)} ￥</div>
+            </div>`;
+          this.popup = new mapboxgl.Popup({ closeButton: false });
+          this.popup.setLngLat(e.lngLat).setHTML(htmlContent).addTo(this.map);
+        },
+        addChart: function () {
+          this.myChart = echarts.init(document.getElementById("chart-view"));
+          this.option = {
+            backgroundColor: "#fff",
+            title: {
+              text: "Number of school in price ranges",
+            },
+            tooltip: {
+              trigger: "axis",
+              show: true,
+            },
+            xAxis: {
+              data: [
+                "0-10k",
+                "10k-20k",
+                "20k-30k",
+                "30k-40k",
+                "40k-50k",
+                "50k-60k",
+                "60k-70k",
+                "70k-80k",
+                "80k-90k",
+                "90k-100k",
+                ">100k",
+              ],
+              axisLabel: {
+                interval: 0,
+                rotate: 40,
+              },
+            },
+            yAxis: {},
+            series: [
+              {
+                name: "Count",
+                type: "line",
+                data: [0, 16, 130, 191, 145, 110, 102, 63, 37, 27, 8],
+              },
+            ],
+          };
+          this.myChart.setOption(this.option);
+        },
+        addEvents: function () {
+          $(".view1").click((e) => {
+            this.map.flyTo({
+              center: [116.403406, 39.915488],
+              essential: true,
+              zoom: 11,
+            });
+            $(".view1").css("background-color", "skyblue");
+            $(".view2").css("background-color", "#fff");
+            $(".view3").css("background-color", "#fff");
+            $(".view4").css("background-color", "#fff");
+            $(".view5").css("background-color", "#fff");
+            $(".view6").css("background-color", "#fff");
+          });
+
+          $(".view2").click((e) => {
+            this.map.flyTo({
+              center: [116.036615, 39.676923],
+              essential: true,
+              zoom: 12,
+            });
+            $(".view1").css("background-color", "#fff");
+            $(".view2").css("background-color", "skyblue");
+            $(".view3").css("background-color", "#fff");
+            $(".view4").css("background-color", "#fff");
+            $(".view5").css("background-color", "#fff");
+            $(".view6").css("background-color", "#fff");
+          });
+          $(".view3").click((e) => {
+            this.map.flyTo({
+              center: [116.74594, 40.27257],
+              essential: true,
+              zoom: 10,
+            });
+            $(".view1").css("background-color", "#fff");
+            $(".view2").css("background-color", "#fff");
+            $(".view3").css("background-color", "skyblue");
+            $(".view4").css("background-color", "#fff");
+            $(".view5").css("background-color", "#fff");
+            $(".view6").css("background-color", "#fff");
+          });
+          $(".view4").click((e) => {
+            this.map.flyTo({
+              center: [116.121829,39.930662],
+              essential: true,
+              zoom: 13,
+            });
+            $(".view1").css("background-color", "#fff");
+            $(".view2").css("background-color", "#fff");
+            $(".view3").css("background-color", "#fff");
+            $(".view4").css("background-color", "skyblue");
+            $(".view5").css("background-color", "#fff");
+            $(".view6").css("background-color", "#fff");
+          });
+          $(".view5").click((e) => {
+            this.map.flyTo({
+              center: [116.647499, 39.903409],
+              essential: true,
+              zoom: 13,
+            });
+            $(".view1").css("background-color", "#fff");
+            $(".view2").css("background-color", "#fff");
+            $(".view3").css("background-color", "#fff");
+            $(".view4").css("background-color", "#fff");
+            $(".view5").css("background-color", "skyblue");
+            $(".view6").css("background-color", "#fff");
+          });
+          $(".view6").click((e) => {
+            this.map.flyTo({
+              center: [116.405419, 39.916042],
+              essential: true,
+              zoom: 9,
+            });
+            $(".view1").css("background-color", "#fff");
+            $(".view2").css("background-color", "#fff");
+            $(".view3").css("background-color", "#fff");
+            $(".view4").css("background-color", "#fff");
+            $(".view5").css("background-color", "#fff");
+            $(".view6").css("background-color", "skyblue");
+          });
+        },
+      };
+      App.init();
+    </script>
+  </body>
+</html>

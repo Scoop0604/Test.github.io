@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Sales volume of housing in Beijing(201901-202012)</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+
+    <script charset="utf-8" src="https://d3js.org/d3.v4.min.js"></script>
+    <script charset="utf-8" src="https://cdnjs.cloudflare.com/ajax/libs/dimple/2.3.0/dimple.latest.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .mapboxgl-popup-content {
+            width: fit-content !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="map"></div>
+    <div id="chart-container"
+        style="display: none;background: white;">
+    </div>
+    <div id="avg-chart-container"
+        style="display: none;background: white;">
+    </div>
+    <div style="display: block; padding:0 16px; position: absolute; width: 300px; height: 90vh; top: 1px; bottom: 1px; right: 2px; margin:auto; background: #ffffffaa; z-index: 88;">
+        <p>The content of this page shows the housing sales of 12 districts in Beijing from January 2019 to December 2020</p>
+        <p>                 </p>
+        <p>The bar chart in the upper left corner shows the average sales volume of each district in 24 months. As can be seen from the figure, Daxing District, Shunyi District and Changping District are among the top three in terms of housing sales. This is because of the great development of these areas in Beijing in recent years, as well as the construction of subway in surrounding areas.However, due to the saturated number of houses and high housing prices in the central city, the sales volume is not very large</p>
+        <p></p>
+        <p>When we click the area in the map, the change of house sales in the area will pop up in the lower right corner. In particular, due to the impact of the epidemic, in February and March 2020, the sales of houses in Beijing are at a low level</p>
+    </div>
+    <script>
+        function getChart(el, name) {
+            d3.csv("data.csv", function (Data) {
+                // console.log(Data)
+                isLoadding = true;
+                var chartdata = [];
+                function SetCityData(index) {   // Function that extracts the population timeseries for the selected city
+
+                    // console.log(Data[index]); // Show the data of the row in the console
+
+                    // The name of the city and country is inserted into the chart title
+                    let keys = Object.keys(Data[index]).filter(v => v.match(/sum\d*/))
+                    chartdata = [];
+                    keys.forEach(k => {
+                        chartdata.push({
+                            //"Pro": "Hist", 
+                            "Date": k.slice(3, 7) + "-" + k.slice(7), 
+                            "Sum": (Data[index][k] )
+                        })
+                    })
+                    // console.log(chartdata)
+
+                }
+
+                let idx = Data.map(v => v.Pro.trim()).indexOf(name);
+                // console.log(Data.map(v => v.Pro.trim()))
+                // console.log(name)
+                if (idx >= 0) {
+                    SetCityData(idx);
+                }
+                else {
+                    return;
+                }
+
+                var chartDom = document.getElementById(el);
+
+                chartDom.innerHTML = '';
+                chartDom.style.position = 'absolute';
+                chartDom.style.width = '500px';
+                chartDom.style.height = '300px';
+                chartDom.style.backgroundColor = '#ffffffaf'
+                chartDom.style.left = '12px';
+                // chartDom.style.right = '1px';
+                chartDom.style.bottom = '12px';
+                // chartDom.style.top = '1px';
+                chartDom.style.margin = 'auto';
+                chartDom.style.display = 'block';
+                chartDom.style.border = 'solid 1px';
+                chartDom.style.borderRadius = '30px';
+                chartDom.style.paddingLeft = '20px';
+                chartDom.style.zIndex = 111;
+                //chartDom.style.fontSize='larger';
+                var p = document.createElement('p');
+                p.id = 'charttitle1'
+                p.innerText = Data[idx].Pro;
+                p.style.width = 'fit-content';
+                p.style.margin = '10px auto';
+                p.style.fontSize='larger';
+                p.style.fontWeight='bolder';
+                chartDom.appendChild(p);
+
+                var closeIcon = document.createElement('div');
+                closeIcon.style.position = 'absolute';
+                closeIcon.innerText = 'close';
+                closeIcon.onclick = function () {
+                chartDom.style.display = 'none';
+                }
+                closeIcon.style.right = '15px';
+                closeIcon.style.top = '15px';
+                closeIcon.style.cursor = 'pointer';
+                chartDom.appendChild(closeIcon);
+
+
+                var pp = document.createElement('p');
+                pp.id = 'chartsubhead1'
+                pp.innerText = 'Sales Volume of house(2019.1-2020.12)'
+                pp.style.width = 'fit-content';
+                pp.style.margin = 'auto';
+
+                chartDom.appendChild(pp)
+
+
+                // el.appendChild(chartDom)
+                var width = chartDom.offsetWidth - 50;
+                var height = chartDom.offsetHeight - 20;
+
+                svg = dimple.newSvg("#" + el, width, height);
+                // console.log(chartdata)
+                lineChart = new dimple.chart(svg, chartdata); // Create the chart
+                lineChart.setBounds(70, 15, width - 100, height - 130);            // Set the chart bounds within the svg container
+
+                lineChart.defaultColors = [
+                    new dimple.color("#54aae3"),
+                    new dimple.color("#54aae3")
+                ];
+
+                var x = lineChart.addTimeAxis("x", "Date", "%Y-%m", "%Y-%m");  // Define the x axis. The latter statements define the date format which we want to be year only
+                x.timeInterval = 3;
+
+                var y = lineChart.addMeasureAxis("y", "Sum"); // Define the y axis
+                //y.ticks = 6;
+
+                var s = lineChart.addSeries("Details", dimple.plot.line);
+                s.lineMarkers = true;
+                s.interpolation = "cardinal";
+
+                lineChart.draw(500); // Draw the chart. The number is the animation delay in miliseconds
+
+                svg.selectAll("path.dimple-proj").style("stroke-dasharray", "2"); // Some minor stying changes using the svg selectAll statement. Make the projected data a dashed line and the grid colour lighter.
+                svg.selectAll("path.domain").style("stroke", "#CCC");
+                svg.selectAll("g.tick line").style("stroke", "#CCC");
+                isLoadding = false;
+            });
+
+        }
+
+        function getAvgChart(el) {
+            d3.csv("data.csv", function (Data) {
+                // console.log(Data)
+                isLoadding = true;
+                
+
+                function getCityData(v) {   // Function that extracts the population timeseries for the selected city
+                    let keys = Object.keys(v).filter(v => v.match(/sum\d*/))
+                    let t = 0;
+                    // console.log(v)
+                    keys.forEach(k => {
+                        t += parseFloat(v[k]);
+                    })
+                    t = t/keys.length;
+                    return {
+                        //'Pro':'Hist',
+                        'District': v.Pro.trim(),
+                        'Avg': t
+                    }
+
+                }
+                var chartdata = Data.map(getCityData);
+                var chartDom = document.getElementById(el);
+
+                chartDom.innerHTML = '';
+                chartDom.style.position = 'absolute';
+                chartDom.style.width = '500px';
+                chartDom.style.height = '300px';
+                chartDom.style.backgroundColor = '#ffffffaf'
+                chartDom.style.left = '12px';
+                // chartDom.style.right = '1px';
+                // chartDom.style.bottom = '12px';
+                chartDom.style.top = '12px';
+                chartDom.style.margin = 'auto';
+                chartDom.style.display = 'block';
+                chartDom.style.border = 'solid 1px';
+                chartDom.style.borderRadius = '30px';
+                chartDom.style.paddingLeft = '20px';
+                //chartDom.style.fontSize='larger';
+                chartDom.style.zIndex = 111;
+                var p = document.createElement('p');
+                p.id = 'charttitle111'
+                p.innerText = 'Average Sales Volume(2019.1-2020.12)';
+                p.style.fontSize='larger';
+                p.style.fontWeight='bolder';
+                p.style.width = 'fit-content';
+                p.style.margin = '10px auto';
+                chartDom.appendChild(p);
+
+                // var closeIcon = document.createElement('div');
+                // closeIcon.style.position = 'absolute';
+                // closeIcon.innerText = 'close';
+                // closeIcon.onclick = function () {
+                //     chartDom.style.display = 'none';
+                // }
+                // closeIcon.style.right = '15px';
+                // closeIcon.style.top = '15px';
+                // closeIcon.style.cursor = 'pointer';
+                // chartDom.appendChild(closeIcon);
+
+
+                var pp = document.createElement('p');
+                pp.id = 'chartsubhead111'
+                //pp.innerText = 'Sales Volume of house(2019.1-2020.12)'
+                pp.style.width = 'fit-content';
+                pp.style.margin = 'auto';
+                
+
+                chartDom.appendChild(pp)
+
+
+                // el.appendChild(chartDom)
+                var width = chartDom.offsetWidth - 50;
+                var height = chartDom.offsetHeight - 20;
+
+                svg = dimple.newSvg("#" + el, width, height);
+                // console.log(chartdata)
+                lineChart = new dimple.chart(svg, chartdata); // Create the chart
+                lineChart.setBounds(70, 15, width - 100, height - 130);            // Set the chart bounds within the svg container
+
+                lineChart.defaultColors = [
+                    new dimple.color("#c6ffc1"),
+                    new dimple.color("#c6ffc1")
+                ];
+
+                var x = lineChart.addCategoryAxis("x", "District");  // Define the x axis. The latter statements define the date format which we want to be year only
+                // x.timeInterval = 3;
+
+                var y = lineChart.addMeasureAxis("y", "Avg"); // Define the y axis
+                //y.ticks = 6;
+                
+
+                var s = lineChart.addSeries("Details", dimple.plot.bar);
+                s.lineMarkers = true;
+                s.interpolation = "cardinal";
+
+                lineChart.draw(500); // Draw the chart. The number is the animation delay in miliseconds
+
+                svg.selectAll("path.dimple-proj").style("stroke-dasharray", "2"); // Some minor stying changes using the svg selectAll statement. Make the projected data a dashed line and the grid colour lighter.
+                svg.selectAll("path.domain").style("stroke", "#CCC");
+                svg.selectAll("g.tick line").style("stroke", "#CCC");
+                isLoadding = false;
+            });
+        }
+        function addLabel(data) {
+            map.addSource('bj-label-data', {
+                type: 'geojson',
+                data: data
+            });
+            // console.log('ee')
+            map.addLayer({
+                id: 'bj-label-layer',
+                // References the GeoJSON source defined above
+                // and does not require a `source-layer`
+                source: 'bj-label-data',
+                type: 'symbol',
+                layout: {
+                    "text-field":[
+                        "format",
+                        [
+                            "get", "district"
+                        ]
+                    ],
+                    "text-size": 13
+                    // 'line-width': 1
+                },
+                paint: {
+                    "text-halo-blur": 4,
+                    "text-halo-color": "rgba(255, 255, 255, 251)",
+                    "text-halo-width": 5,
+                    "text-color": "rgba(0, 0, 0, 255)"
+                }
+            })
+        }
+    </script>
+    <script>
+        getAvgChart('avg-chart-container')
+        mapboxgl.accessToken = 'pk.eyJ1IjoiNjY0NTg5OTM3IiwiYSI6ImNra2ZjaGNkcDBzYXIybm1uYzc4bXhuZWgifQ.Gs7MPuYEjV_78h-MB4W7cQ';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/664589937/ckos97bvo834i17pbnf5aqcdx',
+            center: [116.5, 40.3],
+            zoom: 7.6
+        });
+
+        map.on('load', function () {
+            map.addSource('bj-data', {
+                type: 'geojson',
+                data: 'BJ.json'
+            });
+            // console.log('ee')
+            map.addLayer({
+                id: 'bj-layer',
+                // References the GeoJSON source defined above
+                // and does not require a `source-layer`
+                source: 'bj-data',
+                type: 'fill',
+                paint: {
+                    "fill-color": "#00ffff",
+                    'fill-opacity': 0.5,
+                    'fill-outline-color': '#ffffff',
+                    // 'line-width': 1
+                }
+            })
+
+            addLabel('beijinggeojson.geojson')
+        })
+        map.on('click', 'bj-layer', function (e) {
+            let feature = e.features[0]
+            getChart('chart-container', feature.properties.py);
+
+        });
+
+    </script>
+
+</body>
+
+</html>

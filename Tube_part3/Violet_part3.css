@@ -1,0 +1,128 @@
+ <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    #map_v {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: 85%;
+      
+    }
+    .marker {
+      background-image: url('red.jpg');
+      background-color:rgba(255,255,255,0.60);
+      background-size: cover;
+      width: 18px;
+      height: 18px;
+      border-radius: 100%;
+      cursor: pointer;
+      opacity: 0.95;
+  
+      
+    }
+    .mapboxgl-popup {
+      max-width: 400px;
+      max-height: 200px;
+      background-color:rgba(255,255,255,0.60);
+    }
+    .mapboxgl-popup-content {
+      text-align: left;
+      font-family: 'Open Sans', sans-serif;
+      background-color:rgba(255,255,255,0.60);
+    }
+
+h1 {
+font-size: 18px;
+line-height: 30px;
+}
+
+h2 {
+font-size: 14px;
+line-height: 20px;
+margin-bottom: 8px;
+}
+
+ p {
+        font-size: 8px;
+      }
+
+a {
+text-decoration: none;
+color: #2dc4b2;
+}
+
+#console {
+position: fixed;
+margin: 10px;
+width: 240px;
+background-color:rgba(255,255,255,0.80);
+padding: 10px 20px;
+}
+
+.session {
+margin-bottom: 20px;
+}
+
+.row_v {
+height: 12px;
+width: 100%;
+}
+
+.colors {
+background: linear-gradient(
+to right,
+#6ceb23,
+#faf6b9,
+#e28229,
+#f02a10,
+#ad4039
+);
+margin-bottom: 5px;
+}
+
+.label {
+width: 15%;
+display: inline-block;
+text-align: center;
+left: 2px;
+font-size: 11px;
+}
+
+#features {
+width: 15%;
+margin-left: 85%;
+font-family: sans-serif;
+overflow-y: hidden;
+background-color: #fafafa;
+
+}
+section {
+  padding:  10px 25px;
+  margin-left: 5px;
+  line-height: 19px;
+  border-bottom: 1px solid #ddd;
+  opacity: 0.4;
+  font-size: 13px;
+}
+section p {
+  font-size: 13px;
+}
+section.active {
+  opacity: 1;
+  background-color: #fafafa;
+}
+section:last-child {
+  border-bottom: none;
+  margin-bottom: 400px;
+}
+
+#myChart {
+    height: 980px;
+    width: 980px;
+    opacity: 0.8;
+}
+
+  </style>
